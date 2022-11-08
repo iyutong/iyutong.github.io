@@ -697,7 +697,7 @@ i.iconfont.icon-z_shangpinheji {
 }
 
 #accordion {
-    min-width: 360px;
+    min-width: 100%;
     margin-right: 5px;
     margin-top: 20px;
     margin-left: 5px;
