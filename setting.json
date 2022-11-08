@@ -1,0 +1,45 @@
+{
+    "title": "梔鎄的主页",
+    "description": "梔鎄的主页",
+    "keywords": "梔鎄的个人主页",
+    "author": "梔鎄",
+    "logo_img": "./img/icon/logo.png",
+    "logo_text_1": "iyutomg",
+    "logo_text_2": "cn",
+    "github": "iyutong",
+    "qq": "2422730738",
+    "email": "2422730738@qq.com",
+    "bilibili": "2012269225",
+    "telegram": "bottom_user",
+    "link_1": [
+        "http://www.coolapk.com/u/4597903",
+        "fa-solid fa-blog",
+        "酷安"
+    ],
+    "link_2": [
+        "https://v.kuaishou.com/yhUrsd",
+        "fa-solid fa-cloud",
+        "快手"
+    ],
+    "link_3": [
+        "https://c.y.qq.com/base/fcgi-bin/u?__=hBcZUgY7dlnw",
+        "fa-solid fa-music",
+        "QQ音乐"
+    ],
+    "link_4": [
+        "https://aidepro.top/",
+        "fa-solid fa-compass",
+        "Aide Pro"
+    ],
+    "link_5": [
+        "https://jq.qq.com/?_wv=1027&k=IolB7Q44",
+        "fa-solid fa-book-bookmark",
+        "QQ群"
+    ],
+    "link_6": [
+        "https://pd.qq.com/s/9dpe6i6ll",
+        "fa-solid fa-flask",
+        "QQ频道"
+    ],
+    "Copyright_text": "梔鎄"
+}
