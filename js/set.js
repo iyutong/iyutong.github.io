@@ -29,7 +29,7 @@ $(function () {
             $('#github').attr('href', "https://github.com/iyutong");
             $('#qq').attr('href', "https://qm.qq.com/cgi-bin/qm/qr?k=uGboqOuu4PXnrk0SFJ7c7MFo4-vXbH6L&noverify=0&personal_qrcode_source=4");
             $('#email').attr('href', "mailto:2422730738@qq.com");
-            $('#bilibili').attr('href', "https://b23.tv/6Ef5Xeb");
+            $('#bilibili').attr('href', "https://space.bilibili.com/2012269225");
             $('#telegram').attr('href', "https://jq.qq.com/?_wv=1027&k=IolB7Q44");
             /* 快捷链接 */
             $('#link-url-1').attr('href', data.link_1[0]);
