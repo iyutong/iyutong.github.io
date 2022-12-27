@@ -12,10 +12,10 @@
     <meta name="force-rendering" content="webkit" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#424242" />
-    <meta name="description" content="梔鎄的主页">
-    <meta name="keywords" content="梔鎄的个人主页">
-    <meta name="author" content="梔鎄">
-    <title>梔鎄的主页</title>
+    <meta name="description" content="栀锿的主页">
+    <meta name="keywords" content="栀锿,个人主页">
+    <meta name="author" content="栀锿">
+    <title>栀锿の主页</title>
     <!-- jQuery -->
     <script src="./js/jquery.min.js"></script>
     <!-- HarmonyOS Sans -->
@@ -49,6 +49,8 @@
     </script>
     <!-- PWA -->
     <link rel="manifest" href="./manifest.json">
+    
+    
 </head>
 
 <body>
@@ -63,8 +65,8 @@
                 <div class="inner three"></div>
             </div>
             <div class="loading-word">
-                <p class="loading-title" id="loading-title">梔鎄的主页</p>
-                <span id="loading-text">加载中...</span>
+                <p class="loading-title" id="loading-title">栀锿の主页</p>
+                <span id="loading-text">加载中</span>
             </div>
         </div>
     </div>
@@ -96,13 +98,13 @@
                             <div class="message cards" id="switchmore">
                                 <div class="des" id="des">
                                     <i class="fa-solid fa-quote-left"></i>
-                                    <div class="des-title"><span id="change">你好呀&nbsp;陌生人&nbsp;!</span><br /><span
-                                            id="change1">愿梦到梦寐以求的人，见到日思夜想的人。</span></div>
+                                    <div class="des-title"><span id="change">你好&nbsp;陌生人&nbsp;!</span><br /><span
+                                            id="change1">南墙已撞 故事已忘</span></div>
                                     <i class="fa-solid fa-quote-right"></i>
                                 </div>
                             </div>
                             <!--社交链接-->
-                            <div class="social" id="social">
+                             <div class="social" id="social">
                                 <a href="https://github.com/iyutong" class="link" id="github" style="margin-left: 4px"
                                     target="_blank">
                                     <i class="fa-brands fa-github"></i>
@@ -143,9 +145,9 @@
                                         </div>
                                         <!--切换音乐结束-->
                                         <div class="hitokoto-all">
-                                            <div class="hitokoto-text"><span id="hitokoto_text">别出现在我的梦里，我负担不起醒来的空落</span>
+                                            <div class="hitokoto-text"><span id="hitokoto_text">理智叫我停止,行动叫我放弃,内心让我再等等</span>
                                             </div>
-                                            <div class="hitokoto-from">-「&nbsp;<span id="from_text">梔鎄</span>&nbsp;」
+                                            <div class="hitokoto-from">-「&nbsp;<span id="from_text">栀锿</span>&nbsp;」
                                             </div>
                                         </div>
                                     </div>
@@ -186,7 +188,7 @@
                                         </div>
                                         <div class="weather">
                                             <span id="city_text">天气</span>&nbsp;
-                                            <span id="wea_text">加载中...</span>&nbsp;
+                                            <span id="wea_text">加载失败</span>&nbsp;
                                             <span id="tem_text"></span>
                                             <span id="win_text">次数</span>
                                             <span id="win_speed">超限</span>
@@ -271,8 +273,108 @@
                     <div class="close fixed-top" id="close">
                         <i class="fa-solid fa-circle-xmark"></i>
                     </div>
-                    <div class="date" style="margin-top: 1rem;">
-                        
+                    <div class="line" style="margin-top: 1rem;">
+                        <i class="fa-solid fa-angle-left"></i>
+                        <span class="line-text">时间胶囊</span>
+                        <i class="fa-solid fa-angle-right"></i>
+                    </div>
+                    <div class="date" id="date">
+                        <div class="item" id="dayProgress">
+                            <div class="date-text" style="margin-top: 0rem;">今日已经度过了&nbsp;<span></span>&nbsp;小时</div>
+                            <div class="progress">
+                                <div class="progress-bar"></div>
+                            </div>
+                        </div>
+                        <div class="item" id="weekProgress">
+                            <div class="date-text">本周已经度过了&nbsp;<span></span>&nbsp;天</div>
+                            <div class="progress">
+                                <div class="progress-bar"></div>
+                            </div>
+                        </div>
+                        <div class="item" id="monthProgress">
+                            <div class="date-text">本月已经度过了&nbsp;<span></span>&nbsp;天</div>
+                            <div class="progress">
+                                <div class="progress-bar"></div>
+                            </div>
+                        </div>
+                        <div class="item" id="yearProgress">
+                            <div class="date-text">今年已经度过了&nbsp;<span></span>&nbsp;个月</div>
+                            <div class="progress">
+                                <div class="progress-bar"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="line">
+                        <i class="fa-solid fa-angle-left"></i>
+                        <span class="line-text">杂七杂八</span>
+                        <i class="fa-solid fa-angle-right"></i>
+                    </div>
+                    <!--网站链接-->
+                    <div class="row">
+                        <div class="col">
+                            <a href="https://www.iyutong.cn/" target="_blank">
+                                <div class="link-card cards">
+                                    <span class="link-name">没想好</span>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col 2">
+                            <a href="https://www.iyutong.cn/" target="_blank">
+                                <div class="link-card cards">
+                                    <span class="link-name">没想好</span>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col">
+                            <a href="https://www.iyutong.cn/" target="_blank">
+                                <div class="link-card cards">
+                                    <span class="link-name">没想好</span>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="row" style="margin-top: 1.5rem;">
+                        <div class="col">
+                            <a href="https://www.iyutong.cn/" target="_blank">
+                                <div class="link-card cards">
+                                    <span class="link-name">没想好</span>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col 2">
+                            <a href="https://www.iyutong.cn/" target="_blank">
+                                <div class="link-card cards">
+                                    <span class="link-name">没想好</span>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col">
+                            <a id="openmore">
+                                <div class="link-card cards">
+                                    <span class="link-name">更多</span>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!--更多页面-->
+                <div class="box" id="box" style="display: none">
+                    <div class="box-wrapper">
+                        <!--关闭按钮-->
+                        <div class="closebox fixed-top" id="closemore">
+                            <i class="fa-solid fa-circle-xmark"></i>
+                        </div>
+                        <!--左侧内容-->
+                        <div class="box-left">
+                            <div class="img-title">
+                                <span class="img-title-big" id="logo-title-other">iyutong</span>
+                                <span class="img-text" id="logo-title-other-small">.cn</span><br />
+                                <span class="img-text">&nbsp;v&nbsp;1.2</span>
+                                <a href="https://github.com/imsyy/home" target="_blank">
+                                    <i class="fa-brands fa-github"></i>
+                                </a>
+                            </div>
+                            <!--更多内容-->
                             <div class="accordion" id="accordion">
                                 <div class="accordion-item">
                                     <h2 class="accordion-header" id="headingOne">
@@ -326,47 +428,21 @@
                                         <div class="accordion-body">
                                             <div class="upnote">
                                                 <span class="uptext">
-                                                    <i class="fa-solid fa-circle-plus"></i>&nbsp;第一次发布
+                                                    <i class="fa-solid fa-circle-plus"></i>&nbsp;同步更新
                                                 </span>
+                                              
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                       
-                    </div>
-                    <div class="date" id="date">
-                        <div class="item" id="dayProgress">
-                            <div class="date-text" style="margin-top: 0rem;">今日已经度过了&nbsp;<span></span>&nbsp;小时</div>
-                            <div class="progress">
-                                <div class="progress-bar"></div>
-                            </div>
                         </div>
-                        <div class="item" id="weekProgress">
-                            <div class="date-text">本周已经度过了&nbsp;<span></span>&nbsp;天</div>
-                            <div class="progress">
-                                <div class="progress-bar"></div>
-                            </div>
-                        </div>
-                        <div class="item" id="monthProgress">
-                            <div class="date-text">本月已经度过了&nbsp;<span></span>&nbsp;天</div>
-                            <div class="progress">
-                                <div class="progress-bar"></div>
-                            </div>
-                        </div>
-                        <div class="item" id="yearProgress">
-                            <div class="date-text">今年已经度过了&nbsp;<span></span>&nbsp;个月</div>
-                            <div class="progress">
-                                <div class="progress-bar"></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="date">
-                       
-                       <div id="aplayer">
+                        <!--Aplayer-->
+                        <div class="box-right">
+                            <div id="aplayer">
                                 <span>音乐播放器加载失败</span>
-                       </div>
-                       
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -378,11 +454,11 @@
                     <script>
                         document.write((new Date()).getFullYear());
                     </script>
-                    <a href="https://iyutong.cn" id="power-text">梔鎄</a>
+                    <a href="https://iyutong.cn" id="power-text">栀锿</a>
                 </span>
                 <!-- 以下信息请不要修改哦 -->
-                <span id="made">&amp;&nbsp;梔&nbsp;鎄&nbsp;<a href="https://github.com/iyutong"
-                        target="_blank">iyutong</a></span>
+                <span id="made">&amp;&nbsp;Made&nbsp;by&nbsp;<a href="https://github.com/iyutong"
+                        target="_blank">栀锿</a></span>
             </div>
             <!-- 歌词显示 -->
             <div id="lrc"></div>
