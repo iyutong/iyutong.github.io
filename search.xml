@@ -1,0 +1,1210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Adobe全家桶安装与激活</title>
+    <url>/posts/36c5e170/</url>
+    <content><![CDATA[<p>以同步更新破解补丁到最新版本3.6.6</p>
+<h2 id="一、介绍"><a   href="#一、介绍"  class="headerlink" title="一、介绍"></a>一、介绍</h2><p>Adobe全家桶是一款由Adobe推出的综合性设计工具套件，包括Photoshop、Illustrator、InDesign、After Effects等多个软件，覆盖了平面设计、插画设计、排版设计、影视后期制作等多个领域。<br>Adobe官方网站:<a   href="/go/?url=aHR0cHM6Ly93d3cuYWRvYmUuY29tL2NuLw==" >https://www.adobe.com/cn/</a><br>本文章带你安装Adobe全家桶最新版并破解激活.</p>
+<h2 id="二、文件准备与下载"><a   href="#二、文件准备与下载"  class="headerlink" title="二、文件准备与下载"></a>二、文件准备与下载</h2><p>总共需要准备两个软件分别是 <code>Adobe Creative Cloud</code> 与 <code>GenP Universal Patch</code> . </p>
+
+  <div class="note p-4 mb-4 rounded-small warning">
+    <p>下载安装前建议关闭杀毒软件,以防止杀毒软件拦截文件,造成无法运行. </p>
+
+  </div>
+
+<h3 id="1-Adobe-Creative-Cloud"><a   href="#1-Adobe-Creative-Cloud"  class="headerlink" title="1.Adobe Creative Cloud"></a>1.Adobe Creative Cloud</h3><p><code>Adobe Creative Cloud</code> ,Adobe 创意工具 ,可以理解为是官方提供的一个Adobe全家桶软件管理程序，用来下载与更新Adobe全家桶的工具.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/adobe/yt11.webp"
+                      alt="官网"
+                ><figcaption>官网</figcaption></figure></p>
+<a class="button  regular" href='/download/?id=aHR0cHM6Ly9peXV0b25nMTMxNC5sYW56b3ViLmNvbS9pcDV4RjJvbHpkNmg=' title='本地下载'><i class='fa-solid fa-download'></i> 本地下载</a>
+<a class="button  regular" href='/go/?url=aHR0cHM6Ly9jcmVhdGl2ZWNsb3VkLmFkb2JlLmNvbS9hcHBzL2Rvd25sb2FkL2NyZWF0aXZlLWNsb3Vk' title='官网下载'><i class='fa-solid fa-download'></i> 官网下载</a>
+<h3 id="2-GenP-Universal-Patch"><a   href="#2-GenP-Universal-Patch"  class="headerlink" title="2.GenP Universal Patch"></a>2.GenP Universal Patch</h3><p><code>GenP Universal Patch</code> ,Adobe 通用补丁 ,用来破解Adobe全家桶的工具 ,支持Adobe CC2019-最新版.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/adobe/yt12.webp"
+                      alt="Genp"
+                ><figcaption>Genp</figcaption></figure></p>
+<a class="button  regular" href='/download/?id=aHR0cHM6Ly9peXV0b25nMTMxNC5sYW56b3ViLmNvbS9pSTFaYTJ5aTl2NmI=' title='本地下载'><i class='fa-solid fa-download'></i> 本地下载</a>
+<a class="button  regular" href='/go/?url=aHR0cHM6Ly93d3cuY3liZXJtYW5pYS53cy9hcHBzL2Fkb2JlLWdlbnAv' title='官网下载'><i class='fa-solid fa-download'></i> 官网下载</a>
+<h2 id="三、Adobe-Creative-Cloud-安装与破解"><a   href="#三、Adobe-Creative-Cloud-安装与破解"  class="headerlink" title="三、Adobe Creative Cloud 安装与破解"></a>三、Adobe Creative Cloud 安装与破解</h2><h3 id="1-安装"><a   href="#1-安装"  class="headerlink" title="1.安装"></a>1.安装</h3><p>运行<a   href="#1-Adobe-Creative-Cloud" >步骤二</a>下载的Adobe Creative Cloud 的安装程序 <code>Creative_Cloud_Set-Up.exe</code><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/adobe/yt14.webp"
+                      alt="Adobe Creative Cloud"
+                ><figcaption>Adobe Creative Cloud</figcaption></figure><br>单击 <code>继续</code> 打开登录页面,登录Adobe账号,进行身份验证.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/adobe/yt15.webp"
+                      alt="登录账号"
+                ><figcaption>登录账号</figcaption></figure><br>如果没有请用邮箱注册一个账号.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/adobe/yt19.webp"
+                      alt="注册账号"
+                ><figcaption>注册账号</figcaption></figure><br>如果登录或注册界面无法加载请更换网络或科学上网试试.  </p>
+
+  <div class="note p-4 mb-4 rounded-small warning">
+    <p>如果登录账号与注册账号都不会,那像你这样 <code>左脑缺失指令集</code> <code>右脑缺失运行库</code> 的人,还是不要玩电脑了.) </p>
+
+  </div>
+
+<p>登录完成以后返回软件安装程序<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/adobe/yt20.webp"
+                      alt="登录成功"
+                ><figcaption>登录成功</figcaption></figure><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/adobe/yt16.webp"
+                      alt="安装"
+                ><figcaption>安装</figcaption></figure><br>取消勾选 <code>安装 Adobe Genuine Service (AGs)....</code> 选项,单击 <code>开始安装</code> 按键,等等安装完成即可.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/adobe/yt21.webp"
+                      alt="等等安装"
+                ><figcaption>等等安装</figcaption></figure><br>安装完成以后会自动打开 <code>Adobe Creative Cloud</code><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/adobe/yt22.webp"
+                      alt="完成"
+                ><figcaption>完成</figcaption></figure></p>
+<h3 id="2-破解"><a   href="#2-破解"  class="headerlink" title="2.破解"></a>2.破解</h3><p><code>Adobe Creative Cloud</code> 安装完成以后需要进行破解,否则可能无法正常安装软件  </p>
+<p>解压<a   href="#2-GenP-Universal-Patch" >步骤二</a>中下载的 GenP Universal Patch 压缩包文件 <code>GenP 3.4.14.1.zip</code>,若无法解压请更换解压软件.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/adobe/yt23.webp"
+                      alt="GenP Universal Patch"
+                ><figcaption>GenP Universal Patch</figcaption></figure><br>双击 <code>GenP-3.4.14.1.exe</code> 运行程序,弹出 <code>TrustedInstaller</code> 警告弹窗.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/adobe/yt24.webp"
+                      alt="提示"
+                ><figcaption>提示</figcaption></figure><br>单击 <code>是</code> 按钮打开窗口<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/adobe/yt1.webp"
+                      alt="运行"
+                ><figcaption>运行</figcaption></figure><br>单击 <code>Patch CC</code> 按钮,对 Adobe Creative Cloud 进行破解,等待破解完成,破解过程中,程序会自动关闭 Adobe Creative Cloud.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/adobe/yt2.webp"
+                      alt="破解"
+                ><figcaption>破解</figcaption></figure><br>重新打开 <code>Adobe Creative Cloud</code> 软件,此刻就已经完成了破解,可以正常安装 <code>PS</code>,<code>AE</code>,<code>PR</code> 等等软件了.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/adobe/yt17.webp"
+                      alt="破解完成"
+                ><figcaption>破解完成</figcaption></figure></p>
+<h2 id="四、Adobe-全家桶安装与破解"><a   href="#四、Adobe-全家桶安装与破解"  class="headerlink" title="四、Adobe 全家桶安装与破解"></a>四、Adobe 全家桶安装与破解</h2><h3 id="1-安装-1"><a   href="#1-安装-1"  class="headerlink" title="1.安装"></a>1.安装</h3><p>安装并破解完 Adobe Creative Cloud 以后就可以正常自己喜欢的 Adobe 全家桶 的软件了  </p>
+<p>打开 <code>Adobe Creative Cloud</code> 在 <code>应用程序</code> - <code>所有应用程序</code> 里面选择自己需要的软件,单击 <code>安装</code> 等等软件安装完成.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/adobe/yt3.webp"
+                      alt="安装"
+                ><figcaption>安装</figcaption></figure><br>安装完成以后不要忙着打开软件,需要先破解程序以后才能正常使用软件<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/adobe/yt5.webp"
+                      alt="下载完成"
+                ><figcaption>下载完成</figcaption></figure></p>
+<h3 id="2-破解-1"><a   href="#2-破解-1"  class="headerlink" title="2.破解"></a>2.破解</h3><p>先按照<a   href="#2-%E7%A0%B4%E8%A7%A3" >步骤三</a>前几步的方法,运行解压出的 <code>GenP Universal Patch</code> 程序.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/adobe/yt1.webp"
+                      alt="GenP Universal Patch"
+                ><figcaption>GenP Universal Patch</figcaption></figure><br>单击 <code>Search</code> 按钮,搜索安装的所有 Adobe 全家桶 软件,并耐心等等搜索完成.  </p>
+
+  <div class="note p-4 mb-4 rounded-small warning">
+    <p>如果你修改了Adobe全家桶默认安装位置,请先点击 <code>Path</code> 按钮,选择安装位置. </p>
+
+  </div>
+
+<p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/adobe/yt9.webp"
+                      alt="搜索"
+                ><figcaption>搜索</figcaption></figure><br>搜索完成以后,勾选需要破解的软件,然后单击 <code>Patch</code> 按钮,对程序进行破解.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/adobe/yt10.webp"
+                      alt="破解"
+                ><figcaption>破解</figcaption></figure><br>等等所有程序破解完成以后,就可以关闭破解程序,运行安装的 Adobe 全家桶 啦.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/adobe/yt13.webp"
+                      alt="完成"
+                ><figcaption>完成</figcaption></figure><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/adobe/yt25.webp"
+                      alt="运行"
+                ><figcaption>运行</figcaption></figure></p>
+
+  <div class="note p-4 mb-4 rounded-small warning">
+    <p>每次更新或安装软件都需要重新破解. </p>
+
+  </div>
+
+<h2 id="五、补充"><a   href="#五、补充"  class="headerlink" title="五、补充"></a>五、补充</h2><h3 id="1-自定义安装路径"><a   href="#1-自定义安装路径"  class="headerlink" title="1.自定义安装路径"></a>1.自定义安装路径</h3><p>打开 <code>Adobe Creative Cloud</code> 软件,单击左上角的 <code>菜单</code> 按键,选择 <code>文件</code>-&gt;<code>首选项</code>.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/adobe/yt26.webp"
+                      alt="自定义"
+                ><figcaption>自定义</figcaption></figure><br>在打开的 <code>首选项</code> 对话框中,选择 <code>应用程序</code> 选项卡,并滑到底部.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/adobe/yt27.webp"
+                      alt="首选项"
+                ><figcaption>首选项</figcaption></figure><br>单击 <code>更改位置...</code> 按钮,在弹出的 <code>选择文件夹</code> 对话框中选择你要保存的位置,单击 <code>选择文件夹</code> 按钮关闭对话框<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/adobe/yt29.webp"
+                      alt="选择文件夹"
+                ><figcaption>选择文件夹</figcaption></figure></p>
+<h3 id="2-Adobe-Genuine-Service-AGs"><a   href="#2-Adobe-Genuine-Service-AGs"  class="headerlink" title="2.Adobe Genuine Service (AGs)"></a>2.Adobe Genuine Service (AGs)</h3><p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/adobe/yt28.webp"
+                      alt="AGs"
+                ><figcaption>AGs</figcaption></figure><br>不管是在安装过程中,还是在安装完成以后,如果提示 <code>安装 Adobe Genuine Service (AGs)</code> 请一定选择 <code>拒绝</code>, 不要安装 <code>AGs</code></p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+        <tag>破解</tag>
+        <tag>激活</tag>
+        <tag>Adobe</tag>
+        <tag>PS</tag>
+        <tag>AE</tag>
+        <tag>PR</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Java打包成exe</title>
+    <url>/posts/4b11e0b6/</url>
+    <content><![CDATA[<h2 id="一-简介"><a   href="#一-简介"  class="headerlink" title="一. 简介"></a>一. 简介</h2><p>Java 是一种跨平台的编程语言，它可以在不同的操作系统上运行。但是，Java 程序的执行需要依赖于 Java 虚拟机（JVM），而 JVM 是由操作系统提供的。因此，Java 程序的执行需要依赖于操作系统。<br>模块化打包是 Java 11 引入的一个新特性，它可以将 Java 程序打包成一个可执行的文件，这个文件可以在任何操作系统上运行，而不需要依赖于 JVM。</p>
+<h2 id="二-打包"><a   href="#二-打包"  class="headerlink" title="二. 打包"></a>二. 打包</h2><p>使用Gradle自动化打包成exe</p>
+<h3 id="1-配置Gradle插件"><a   href="#1-配置Gradle插件"  class="headerlink" title="1.配置Gradle插件"></a>1.配置Gradle插件</h3><p>在项目的 <code>build.gradle</code> 文件中添加以下配置：</p>
+<div class="code-container" data-rel="Groovy"><figure class="iseeu highlight groovy"><table><tr><td class="code"><pre><span class="line">plugins &#123;</span><br><span class="line">    ......</span><br><span class="line">    id <span class="string">&#x27;application&#x27;</span></span><br><span class="line">    id(<span class="string">&quot;org.panteleyev.jpackageplugin&quot;</span>) version <span class="string">&quot;1.6.1&quot;</span></span><br><span class="line">    ......</span><br><span class="line">&#125;   </span><br></pre></td></tr></table></figure></div>
+<h3 id="2-配置打包信息"><a   href="#2-配置打包信息"  class="headerlink" title="2.配置打包信息"></a>2.配置打包信息</h3><p>在项目的 <code>build.gradle</code> 文件中添加以下配置：</p>
+<div class="code-container" data-rel="Groovy"><figure class="iseeu highlight groovy"><table><tr><td class="code"><pre><span class="line">application &#123;</span><br><span class="line">    mainModule = <span class="string">&#x27;cn.iyutong.myapp&#x27;</span></span><br><span class="line">    mainClass = <span class="string">&#x27;cn.iyutong.myapp.Main&#x27;</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></div>
+<div class="code-container" data-rel="Groovy"><figure class="iseeu highlight groovy"><table><tr><td class="code"><pre><span class="line">jpackage &#123;</span><br><span class="line">    dependsOn(<span class="string">&quot;installDist&quot;</span>)</span><br><span class="line">    appName = <span class="string">&#x27;myapp&#x27;</span>  <span class="comment">// 应用名称</span></span><br><span class="line">    vendor = <span class="string">&#x27;iyutong&#x27;</span>  <span class="comment">// 公司名称</span></span><br><span class="line">    copyright = <span class="string">&#x27;Copyright (c) 2024 iyutong&#x27;</span>  <span class="comment">// 版权信息</span></span><br><span class="line">    description = <span class="string">&#x27;iyutong&#x27;</span>  <span class="comment">// 描述信息</span></span><br><span class="line">    icon = <span class="string">&#x27;src/main/resources/images/icon.ico&#x27;</span>  <span class="comment">// 图标路径</span></span><br><span class="line">    input = <span class="string">&quot;$&#123;layout.buildDirectory.asFile.get()&#125;/install/$&#123;rootProject.name&#125;/lib&quot;</span></span><br><span class="line">    module = <span class="string">&#x27;cn.iyutong.adobecrack/cn.iyutong.adobecrack.HelloApplication&#x27;</span>  <span class="comment">// 主模块</span></span><br><span class="line">    <span class="keyword">def</span> libDir = file(<span class="string">&quot;$&#123;input&#125;&quot;</span>)</span><br><span class="line">    <span class="keyword">def</span> modulePathsList = []</span><br><span class="line">    <span class="keyword">if</span> (libDir.exists() &amp;&amp; libDir.isDirectory()) &#123;</span><br><span class="line">         libDir.traverse(<span class="attr">type:</span> groovy.io.FileType.FILES) &#123; file -&gt;</span><br><span class="line">             modulePathsList.add(file.absolutePath)</span><br><span class="line">         &#125;</span><br><span class="line">     &#125;</span><br><span class="line">     modulePaths = modulePathsList  <span class="comment">// 模块路径</span></span><br><span class="line">     destination = layout.buildDirectory.dir(<span class="string">&quot;jpackage&quot;</span>).get().asFile <span class="comment">// 输出目录</span></span><br><span class="line">     delete destination <span class="comment">// 删除输出目录</span></span><br><span class="line">     type = ImageType.APP_IMAGE <span class="comment">// 打包成绿色版</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></div>
+<h3 id="3-打包"><a   href="#3-打包"  class="headerlink" title="3.打包"></a>3.打包</h3><p>在项目的根目录下执行以下命令：</p>
+<div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">./gradlew jpackage</span><br></pre></td></tr></table></figure></div>
+<p>打包完成后，在项目的 <code>build/jpackage</code> 目录下会生成一个绿色版的应用程序。</p>
+]]></content>
+      <categories>
+        <category>Java</category>
+      </categories>
+      <tags>
+        <tag>Java</tag>
+        <tag>打包</tag>
+        <tag>exe</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Markdown教程</title>
+    <url>/posts/c079e252/</url>
+    <content><![CDATA[<h2 id="一、简介"><a   href="#一、简介"  class="headerlink" title="一、简介"></a>一、简介</h2><p>Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档。这种语言在 2004 由约翰·格鲁伯（英语：John Gruber）创建。它编写的文档可以导出 HTML 、Word、图像、PDF、Epub 等多种格式的文档。文档后缀为 .md, .markdown  </p>
+<h2 id="二、标题"><a   href="#二、标题"  class="headerlink" title="二、标题"></a>二、标题</h2><p>创建标题的常见语法</p>
+<h3 id="1-使用-和"><a   href="#1-使用-和"  class="headerlink" title="1.使用 &#x3D; 和 -"></a>1.使用 &#x3D; 和 -</h3><p><code>=</code> 号可表示标记一级, <code>-</code> 号可表示二级标题 (一行中用一个以上来建立，这行内不能有其他东西。)  </p>
+<blockquote>
+<h4 id="事例"><a   href="#事例"  class="headerlink" title="事例:"></a>事例:</h4><div class="code-container" data-rel="Markdown"><figure class="iseeu highlight markdown"><table><tr><td class="code"><pre><span class="line"><span class="section">这是一个一级标题</span></span><br><span class="line"><span class="section">===</span></span><br><span class="line"></span><br><span class="line"><span class="section">这是一个二级标题</span></span><br><span class="line"><span class="section">---</span></span><br></pre></td></tr></table></figure></div>
+</blockquote>
+<h3 id="2-使用-号标记"><a   href="#2-使用-号标记"  class="headerlink" title="2.使用 # 号标记"></a>2.使用 # 号标记</h3><p>使用 <code>#</code> 号可表示 1-6 级标题，一级标题对应一个 <code>#</code> 号，二级标题对应两个 <code>#</code> 号，以此类推  </p>
+<blockquote>
+<h4 id="事例-1"><a   href="#事例-1"  class="headerlink" title="事例:"></a>事例:</h4><div class="code-container" data-rel="Markdown"><figure class="iseeu highlight markdown"><table><tr><td class="code"><pre><span class="line"><span class="section">##### 5级标题</span></span><br><span class="line"><span class="section">###### 6级标题</span></span><br></pre></td></tr></table></figure></div>
+<h4 id="效果"><a   href="#效果"  class="headerlink" title="效果:"></a>效果:</h4><blockquote>
+<h5 id="5级标题"><a   href="#5级标题"  class="headerlink" title="5级标题"></a>5级标题</h5><h6 id="6级标题"><a   href="#6级标题"  class="headerlink" title="6级标题"></a>6级标题</h6></blockquote>
+</blockquote>
+<h2 id="三、段落"><a   href="#三、段落"  class="headerlink" title="三、段落"></a>三、段落</h2><p>Markdown 段落没有特殊的格式，直接编写文字就好。</p>
+<h3 id="1-换行"><a   href="#1-换行"  class="headerlink" title="1.换行"></a>1.换行</h3><p>输入 两个空格加上回车 表示换行</p>
+<blockquote>
+<h4 id="事例-2"><a   href="#事例-2"  class="headerlink" title="事例:"></a>事例:</h4><div class="code-container" data-rel="Markdown"><figure class="iseeu highlight markdown"><table><tr><td class="code"><pre><span class="line">这是段落一</span><br><span class="line">我没换行  </span><br><span class="line">这是段落二  </span><br><span class="line">我换行了</span><br></pre></td></tr></table></figure></div>
+<h4 id="效果-1"><a   href="#效果-1"  class="headerlink" title="效果:"></a>效果:</h4><blockquote>
+<p>这是段落一<br>我没换行<br>这是段落二<br>我换行了</p>
+</blockquote>
+</blockquote>
+<h3 id="2-段落"><a   href="#2-段落"  class="headerlink" title="2.段落"></a>2.段落</h3><p>段落后面使用一个空行来表示重新开始一个段落</p>
+<blockquote>
+<h4 id="事例-3"><a   href="#事例-3"  class="headerlink" title="事例:"></a>事例:</h4><div class="code-container" data-rel="Markdown"><figure class="iseeu highlight markdown"><table><tr><td class="code"><pre><span class="line">这是一个段落</span><br><span class="line"></span><br><span class="line">这是一个新段落</span><br></pre></td></tr></table></figure></div>
+<h4 id="效果-2"><a   href="#效果-2"  class="headerlink" title="效果:"></a>效果:</h4><blockquote>
+<p>这是一个段落</p>
+<p>这是一个新段落</p>
+</blockquote>
+</blockquote>
+<h2 id="四、字体"><a   href="#四、字体"  class="headerlink" title="四、字体"></a>四、字体</h2><p>使用 <code>*</code> 或者 <code>_</code> 号包裹可表示斜体文本<br>使用 <code>**</code> 或者 <code>__</code> 号包裹可表示粗体文本<br>使用 <code>***</code> 或者 <code>___</code> 号包裹可表示粗斜体文本<br>使用两个 <code>~</code> 号包裹可添加删除线<br>通过 HTML 的 <code>&lt;u&gt;</code> 标签可添加删下划线  </p>
+<blockquote>
+<h4 id="事例-4"><a   href="#事例-4"  class="headerlink" title="事例:"></a>事例:</h4><div class="code-container" data-rel="Markdown"><figure class="iseeu highlight markdown"><table><tr><td class="code"><pre><span class="line"><span class="emphasis">*斜体文本*</span>  </span><br><span class="line"><span class="emphasis">_斜体文本_</span>  </span><br><span class="line"><span class="strong">**粗体文本**</span>  </span><br><span class="line"><span class="strong">__粗体文本__</span>  </span><br><span class="line"><span class="strong">**<span class="emphasis">*粗斜体文本*</span>**</span>  </span><br><span class="line"><span class="strong">__<span class="emphasis">_粗斜体文本_</span>__</span>  </span><br><span class="line">~~这是一个文字~~  </span><br><span class="line"><span class="language-xml"><span class="tag">&lt;<span class="name">u</span>&gt;</span></span>这是一个文字<span class="language-xml"><span class="tag">&lt;/<span class="name">u</span>&gt;</span></span></span><br></pre></td></tr></table></figure></div>
+<h4 id="效果-3"><a   href="#效果-3"  class="headerlink" title="效果:"></a>效果:</h4><blockquote>
+<p><em>斜体文本</em><br><em>斜体文本</em><br><strong>粗体文本</strong><br><strong>粗体文本</strong><br><em><strong>粗斜体文本</strong></em><br><em><strong>粗斜体文本</strong></em><br><del>这是一个文字</del><br><u>这是一个文字</u></p>
+</blockquote>
+</blockquote>
+<h2 id="五、分隔线"><a   href="#五、分隔线"  class="headerlink" title="五、分隔线"></a>五、分隔线</h2><p>在一行中用三个以上的 <code>*</code> 或者 <code>_</code> 或者 <code>-</code> 来建立一个分隔线，这行内不能有其他东西。你也可以在 <code>*</code> 或者 <code>-</code> 中间插入空格。  </p>
+<blockquote>
+<h4 id="事例-5"><a   href="#事例-5"  class="headerlink" title="事例:"></a>事例:</h4><div class="code-container" data-rel="Markdown"><figure class="iseeu highlight markdown"><table><tr><td class="code"><pre><span class="line"><span class="strong">***</span></span><br><span class="line"><span class="strong"></span></span><br><span class="line"><span class="strong">* * *</span></span><br><span class="line"><span class="strong"></span></span><br><span class="line"><span class="strong">**</span><span class="strong">***</span></span><br><span class="line"><span class="strong"></span></span><br><span class="line"><span class="strong">- - - -</span></span><br><span class="line"><span class="strong"></span></span><br><span class="line"><span class="strong">------</span></span><br></pre></td></tr></table></figure></div>
+<h4 id="效果-4"><a   href="#效果-4"  class="headerlink" title="效果:"></a>效果:</h4><blockquote>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+</blockquote>
+</blockquote>
+<h2 id="六、列表"><a   href="#六、列表"  class="headerlink" title="六、列表"></a>六、列表</h2><h3 id="1-无序列表"><a   href="#1-无序列表"  class="headerlink" title="1.无序列表"></a>1.无序列表</h3><p>无序列表使用星号(<code>*</code>)、加号(<code>+</code>)或是减号(<code>-</code>)作为列表标记，这些标记后面要添加一个空格，然后再填写内容  </p>
+<blockquote>
+<h4 id="事例-6"><a   href="#事例-6"  class="headerlink" title="事例:"></a>事例:</h4><div class="code-container" data-rel="Markdown"><figure class="iseeu highlight markdown"><table><tr><td class="code"><pre><span class="line"><span class="bullet">*</span> 第一项</span><br><span class="line"><span class="bullet">*</span> 第二项</span><br><span class="line"><span class="bullet">*</span> 第三项</span><br><span class="line"></span><br><span class="line"><span class="bullet">+</span> 第一项</span><br><span class="line"><span class="bullet">+</span> 第二项</span><br><span class="line"><span class="bullet">+</span> 第三项</span><br><span class="line"></span><br><span class="line"><span class="bullet">-</span> 第一项</span><br><span class="line"><span class="bullet">-</span> 第二项</span><br><span class="line"><span class="bullet">-</span> 第三项</span><br></pre></td></tr></table></figure></div>
+<h4 id="效果-5"><a   href="#效果-5"  class="headerlink" title="效果:"></a>效果:</h4><blockquote>
+<ul>
+<li>第一项</li>
+<li>第二项</li>
+<li>第三项</li>
+</ul>
+<ul>
+<li>第一项</li>
+<li>第二项</li>
+<li>第三项</li>
+</ul>
+<ul>
+<li>第一项</li>
+<li>第二项</li>
+<li>第三项</li>
+</ul>
+</blockquote>
+</blockquote>
+<h3 id="2-有序列表"><a   href="#2-有序列表"  class="headerlink" title="2.有序列表"></a>2.有序列表</h3><p>有序列表使用数字并加上 <code>.</code> 号来表示</p>
+<blockquote>
+<h4 id="事例-7"><a   href="#事例-7"  class="headerlink" title="事例:"></a>事例:</h4><div class="code-container" data-rel="Markdown"><figure class="iseeu highlight markdown"><table><tr><td class="code"><pre><span class="line"><span class="bullet">1.</span> 第一项</span><br><span class="line"><span class="bullet">2.</span> 第二项</span><br><span class="line"><span class="bullet">3.</span> 第三项</span><br></pre></td></tr></table></figure></div>
+<h4 id="效果-6"><a   href="#效果-6"  class="headerlink" title="效果:"></a>效果:</h4><blockquote>
+<ol>
+<li>第一项</li>
+<li>第二项</li>
+<li>第三项</li>
+</ol>
+</blockquote>
+</blockquote>
+<h3 id="3-列表嵌套"><a   href="#3-列表嵌套"  class="headerlink" title="3.列表嵌套"></a>3.列表嵌套</h3><p>列表嵌套只需在子列表中的选项前面添加两个或四个空格即可</p>
+<blockquote>
+<h4 id="事例-8"><a   href="#事例-8"  class="headerlink" title="事例:"></a>事例:</h4><div class="code-container" data-rel="Markdown"><figure class="iseeu highlight markdown"><table><tr><td class="code"><pre><span class="line"><span class="bullet">1.</span> 第一项：</span><br><span class="line"><span class="bullet">    -</span> 第一项嵌套的第一个元素</span><br><span class="line"><span class="bullet">    -</span> 第一项嵌套的第二个元素</span><br><span class="line"><span class="bullet">2.</span> 第二项：</span><br><span class="line"><span class="bullet">    -</span> 第二项嵌套的第一个元素</span><br><span class="line"><span class="bullet">    -</span> 第二项嵌套的第二个元素</span><br></pre></td></tr></table></figure></div>
+<h4 id="效果-7"><a   href="#效果-7"  class="headerlink" title="效果:"></a>效果:</h4><blockquote>
+<ol>
+<li>第一项：<ul>
+<li>第一项嵌套的第一个元素</li>
+<li>第一项嵌套的第二个元素</li>
+</ul>
+</li>
+<li>第二项：<ul>
+<li>第二项嵌套的第一个元素</li>
+<li>第二项嵌套的第二个元素</li>
+</ul>
+</li>
+</ol>
+</blockquote>
+</blockquote>
+<h2 id="七、区块"><a   href="#七、区块"  class="headerlink" title="七、区块"></a>七、区块</h2><p>区块引用是在段落开头使用 <code>&gt;</code> 符号，然后后面紧跟一个空格符号，区块是可以嵌套的，如果要在列表项目内放进区块，那么就需要在 <code>&gt;</code> 前添加四个空格的缩进  </p>
+<blockquote>
+<h4 id="事例-9"><a   href="#事例-9"  class="headerlink" title="事例:"></a>事例:</h4><div class="code-container" data-rel="Markdown"><figure class="iseeu highlight markdown"><table><tr><td class="code"><pre><span class="line"><span class="quote">&gt; 我是区块  </span></span><br><span class="line"><span class="quote">&gt; YT  </span></span><br><span class="line"><span class="quote">&gt; 梔锿</span></span><br><span class="line">&gt;&gt; 我是嵌套区块</span><br><span class="line">&gt;&gt;&gt; 我也是嵌套区块</span><br><span class="line"> </span><br><span class="line"><span class="quote">&gt; * 第一项</span></span><br><span class="line">   &gt; 我是区块</span><br><span class="line"><span class="quote">&gt; * 第二项</span></span><br></pre></td></tr></table></figure></div>
+<h4 id="效果-8"><a   href="#效果-8"  class="headerlink" title="效果:"></a>效果:</h4><blockquote>
+<p>我是区块<br>YT<br>梔锿</p>
+<blockquote>
+<p>我是嵌套区块</p>
+<blockquote>
+<p>我也是嵌套区块</p>
+</blockquote>
+</blockquote>
+</blockquote>
+<blockquote>
+<ul>
+<li>第一项<blockquote>
+<p>我是区块</p>
+</blockquote>
+</li>
+<li>第二项</li>
+</ul>
+</blockquote>
+</blockquote>
+<h2 id="八、代码"><a   href="#八、代码"  class="headerlink" title="八、代码"></a>八、代码</h2><p>如果是段落上的一个函数或片段的代码可以用反引号把它包起来 &#96;</p>
+<blockquote>
+<h4 id="事例-10"><a   href="#事例-10"  class="headerlink" title="事例:"></a>事例:</h4><div class="code-container" data-rel="Markdown"><figure class="iseeu highlight markdown"><table><tr><td class="code"><pre><span class="line"><span class="code">`printf()`</span> 函数</span><br></pre></td></tr></table></figure></div>
+<h4 id="效果-9"><a   href="#效果-9"  class="headerlink" title="效果:"></a>效果:</h4><blockquote>
+<p><code>printf()</code> 函数</p>
+</blockquote>
+</blockquote>
+<h2 id="九、代码区块"><a   href="#九、代码区块"  class="headerlink" title="九、代码区块"></a>九、代码区块</h2><h3 id="1-方法一"><a   href="#1-方法一"  class="headerlink" title="1.方法一"></a>1.方法一</h3><p>代码区块使用 4 个空格或者一个制表符（Tab 键）</p>
+<blockquote>
+<h4 id="事例-11"><a   href="#事例-11"  class="headerlink" title="事例:"></a>事例:</h4><div class="code-container" data-rel="Markdown"><figure class="iseeu highlight markdown"><table><tr><td class="code"><pre><span class="line">$(document).ready(function () &#123;  </span><br><span class="line">alert(&#x27;RUNOOB&#x27;);  </span><br><span class="line">&#125;); </span><br></pre></td></tr></table></figure></div>
+<h4 id="效果-10"><a   href="#效果-10"  class="headerlink" title="效果:"></a>效果:</h4><blockquote>
+<p> $(document).ready(function () {<br> alert(‘RUNOOB’);<br> }); </p>
+</blockquote>
+</blockquote>
+<h3 id="2-方法二"><a   href="#2-方法二"  class="headerlink" title="2.方法二"></a>2.方法二</h3><p>可以用 <code>```</code>包裹一段代码，并指定一种语言（也可以不指定）</p>
+<blockquote>
+<h4 id="事例-12"><a   href="#事例-12"  class="headerlink" title="事例:"></a>事例:</h4><div class="code-container" data-rel="Markdown"><figure class="iseeu highlight markdown"><table><tr><td class="code"><pre><span class="line"><span class="code">```javascript  </span></span><br><span class="line"><span class="code">$(document).ready(function () &#123;</span></span><br><span class="line"><span class="code">alert(&#x27;RUNOOB&#x27;);</span></span><br><span class="line"><span class="code">&#125;);</span></span><br><span class="line"><span class="code">```  </span></span><br></pre></td></tr></table></figure></div>
+<h4 id="效果-11"><a   href="#效果-11"  class="headerlink" title="效果"></a>效果</h4><blockquote>
+<div class="code-container" data-rel="Javascript"><figure class="iseeu highlight javascript"><table><tr><td class="code"><pre><span class="line">$(<span class="variable language_">document</span>).<span class="title function_">ready</span>(<span class="keyword">function</span> (<span class="params"></span>) &#123;</span><br><span class="line"><span class="title function_">alert</span>(<span class="string">&#x27;RUNOOB&#x27;</span>);</span><br><span class="line">&#125;);</span><br></pre></td></tr></table></figure></div>
+</blockquote>
+</blockquote>
+<h2 id="十、链接"><a   href="#十、链接"  class="headerlink" title="十、链接"></a>十、链接</h2><p>链接使用方法如下：<code>[链接名称](链接地址)</code>或者 <code>&lt;&gt;</code></p>
+<blockquote>
+<h4 id="事例-13"><a   href="#事例-13"  class="headerlink" title="事例:"></a>事例:</h4><div class="code-container" data-rel="Markdown"><figure class="iseeu highlight markdown"><table><tr><td class="code"><pre><span class="line">[<span class="string">梔锿</span>](<span class="link">https://iyutong.cn</span>)  </span><br><span class="line"><span class="language-xml">&lt;https://iyutong.cn&gt;</span></span><br></pre></td></tr></table></figure></div>
+<h4 id="效果-12"><a   href="#效果-12"  class="headerlink" title="效果:"></a>效果:</h4><blockquote>
+<p><a class="link"     href="https://iyutong.cn/"  >梔锿<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a><br><a class="link"     href="https://iyutong.cn/"  >https://iyutong.cn<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+</blockquote>
+</blockquote>
+<h2 id="十一、图片"><a   href="#十一、图片"  class="headerlink" title="十一、图片"></a>十一、图片</h2><h3 id="1-方法一-1"><a   href="#1-方法一-1"  class="headerlink" title="1.方法一"></a>1.方法一</h3><p>使用markdown语法格式如下：<code>![alt 属性文本](图片地址)</code>或者<code>![alt 属性文本](图片地址 &quot;可选标题&quot;)</code></p>
+<blockquote>
+<h4 id="事例-14"><a   href="#事例-14"  class="headerlink" title="事例:"></a>事例:</h4><div class="code-container" data-rel="Markdown"><figure class="iseeu highlight markdown"><table><tr><td class="code"><pre><span class="line">![<span class="string">测试</span>](<span class="link">https://www.iyutong.cn/images/iyutongf.webp</span>)  </span><br><span class="line">![<span class="string">测试 图标</span>](<span class="link">https://www.iyutong.cn/images/iyutongf.webp &quot;梔锿&quot;</span>)</span><br></pre></td></tr></table></figure></div>
+<h4 id="效果-13"><a   href="#效果-13"  class="headerlink" title="效果:"></a>效果:</h4><blockquote>
+<p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://www.iyutong.cn/images/iyutongf.webp"
+                      alt="测试"
+                ><figcaption>测试</figcaption></figure><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://www.iyutong.cn/images/iyutongf.webp"
+                      alt="测试 图标" title="梔锿"
+                ><figcaption>测试 图标</figcaption></figure></p>
+</blockquote>
+</blockquote>
+<h3 id="2-方法二-1"><a   href="#2-方法二-1"  class="headerlink" title="2.方法二"></a>2.方法二</h3><p>Markdown 还没有办法指定图片的高度与宽度，如果你需要的话，你可以使用普通的<code>&lt;img&gt;</code>标签。</p>
+<blockquote>
+<h4 id="事例-15"><a   href="#事例-15"  class="headerlink" title="事例:"></a>事例:</h4><div class="code-container" data-rel="Markdown"><figure class="iseeu highlight markdown"><table><tr><td class="code"><pre><span class="line"><span class="language-xml"><span class="tag">&lt;<span class="name">img</span> <span class="attr">decoding</span>=<span class="string">&quot;async&quot;</span> <span class="attr">src</span>=<span class="string">&quot;https://www.iyutong.cn/images/iyutongf.webp&quot;</span> <span class="attr">width</span>=<span class="string">&quot;50px&quot;</span>&gt;</span></span><span class="language-xml"><span class="tag">&lt;/<span class="name">img</span>&gt;</span></span></span><br></pre></td></tr></table></figure></div>
+<h4 id="效果-14"><a   href="#效果-14"  class="headerlink" title="效果:"></a>效果:</h4><blockquote>
+<p><img  decoding="async" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://www.iyutong.cn/images/iyutongf.webp"
+                      width="50px"
+                ></img></p>
+</blockquote>
+</blockquote>
+<h2 id="十二、表格"><a   href="#十二、表格"  class="headerlink" title="十二、表格"></a>十二、表格</h2><p>表格使用 <code>|</code> 来分隔不同的单元格，使用 <code>-</code> 来分隔表头和其他行<br>&nbsp;设置表格的对齐方式:<br>&nbsp;&nbsp;<code>-:</code> 设置内容和标题栏居右对齐.<br>&nbsp;&nbsp;<code>:-</code> 设置内容和标题栏居左对齐.<br>&nbsp;&nbsp;<code>:-:</code> 设置内容和标题栏居中对齐.  </p>
+<blockquote>
+<h4 id="事例-16"><a   href="#事例-16"  class="headerlink" title="事例:"></a>事例:</h4><div class="code-container" data-rel="Markdown"><figure class="iseeu highlight markdown"><table><tr><td class="code"><pre><span class="line">|  表头   | 表头  |</span><br><span class="line">|  ----  | ----  |</span><br><span class="line">| 单元格  | 单元格 |</span><br><span class="line">| 单元格  | 单元格 |</span><br><span class="line"></span><br><span class="line">| ---左对齐123456--- | ---右对齐123456--- | ---居中对齐12345--- |</span><br><span class="line">|:----------------|----------------:|:---------------:|</span><br><span class="line">| 单元格             |             单元格 |       单元格       |</span><br><span class="line">| 单元格             |             单元格 |       单元格       |</span><br></pre></td></tr></table></figure></div>
+<h4 id="效果-15"><a   href="#效果-15"  class="headerlink" title="效果:"></a>效果:</h4><blockquote>
+<table>
+<thead>
+<tr>
+<th>表头</th>
+<th>表头</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>单元格</td>
+<td>单元格</td>
+</tr>
+<tr>
+<td>单元格</td>
+<td>单元格</td>
+</tr>
+</tbody></table>
+<table>
+<thead>
+<tr>
+<th align="left">—左对齐123456—</th>
+<th align="right">—右对齐123456—</th>
+<th align="center">—居中对齐12345—</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">单元格</td>
+<td align="right">单元格</td>
+<td align="center">单元格</td>
+</tr>
+<tr>
+<td align="left">单元格</td>
+<td align="right">单元格</td>
+<td align="center">单元格</td>
+</tr>
+</tbody></table>
+</blockquote>
+</blockquote>
+<h2 id="十三、HTML-元素"><a   href="#十三、HTML-元素"  class="headerlink" title="十三、HTML 元素"></a>十三、HTML 元素</h2><p>目前支持的 HTML 元素有：<code>&lt;kbd&gt;</code> <code>&lt;b&gt;</code> <code>&lt;i&gt;</code> <code>&lt;em&gt;</code> <code>&lt;sup&gt;</code> <code>&lt;sub&gt;</code> <code>&lt;br&gt;</code>等</p>
+<blockquote>
+<h4 id="事例-17"><a   href="#事例-17"  class="headerlink" title="事例:"></a>事例:</h4><div class="code-container" data-rel="Markdown"><figure class="iseeu highlight markdown"><table><tr><td class="code"><pre><span class="line">使用 <span class="language-xml"><span class="tag">&lt;<span class="name">kbd</span>&gt;</span></span>Ctrl<span class="language-xml"><span class="tag">&lt;/<span class="name">kbd</span>&gt;</span></span>+<span class="language-xml"><span class="tag">&lt;<span class="name">kbd</span>&gt;</span></span>Alt<span class="language-xml"><span class="tag">&lt;/<span class="name">kbd</span>&gt;</span></span>+<span class="language-xml"><span class="tag">&lt;<span class="name">kbd</span>&gt;</span></span>Del<span class="language-xml"><span class="tag">&lt;/<span class="name">kbd</span>&gt;</span></span> 重启电脑</span><br></pre></td></tr></table></figure></div>
+<h4 id="效果-16"><a   href="#效果-16"  class="headerlink" title="效果:"></a>效果:</h4><blockquote>
+<p>使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 重启电脑</p>
+</blockquote>
+</blockquote>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Office全家桶安装与激活</title>
+    <url>/posts/d4a94f0f/</url>
+    <content><![CDATA[<h2 id="一、介绍"><a   href="#一、介绍"  class="headerlink" title="一、介绍"></a>一、介绍</h2><p>Office全家桶包括了 Word、Excel 和 PowerPoint 基本应用程序，用于撰写文章、创建电子表格和图表、以及进行演示等简单办公等任务。<br>Office官方网站:<a   href="/go/?url=aHR0cHM6Ly93d3cubWljcm9zb2Z0c3RvcmUuY29tLmNuL3NvZnR3YXJlL29mZmljZQ==" >https://www.microsoftstore.com.cn/software/office</a><br>本文章带你安装Office全家桶最新版并破解激活.</p>
+<h2 id="二、文件准备与下载"><a   href="#二、文件准备与下载"  class="headerlink" title="二、文件准备与下载"></a>二、文件准备与下载</h2><p>总共需要准备两个软件分别是 <code>Office Tool Plus</code> 与 <code>HEU KMS Activator</code> .</p>
+
+  <div class="note p-4 mb-4 rounded-small warning">
+    <p>下载安装前建议关闭杀毒软件,以防止杀毒软件拦截文件,造成无法运行. </p>
+
+  </div>
+
+<h3 id="1-Office-Tool-Plus"><a   href="#1-Office-Tool-Plus"  class="headerlink" title="1.Office Tool Plus"></a>1.Office Tool Plus</h3><p><code>Office Tool Plus</code> 基于 Office 部署工具 (ODT) 打造，可以很轻松地部署 Office。<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/office/yt25.webp"
+                      alt="Office Tool Plus"
+                ><figcaption>Office Tool Plus</figcaption></figure></p>
+<a class="button  regular" href='/download/?id=aHR0cHM6Ly9peXV0b25nMTMxNC5sYW56b3ViLmNvbS9pRlNHTTJvbHpmdGM=' title='本地下载'><i class='fa-solid fa-download'></i> 本地下载</a>
+<a class="button  regular" href='/go/?url=aHR0cHM6Ly9vdHAubGFuZGlhbi52aXAvemgtY24vZG93bmxvYWQuaHRtbA==' title='官网下载'><i class='fa-solid fa-download'></i> 官网下载</a>
+<a class="button  regular" href='/go/?url=aHR0cHM6Ly9naXRodWIuY29tL1llcm9uZ0FJL09mZmljZS1Ub29sL3JlbGVhc2Vz' title='Github下载'><i class='fa-solid fa-download'></i> Github下载</a>
+<h3 id="2-HEU-KMS-Activator"><a   href="#2-HEU-KMS-Activator"  class="headerlink" title="2.HEU KMS Activator"></a>2.HEU KMS Activator</h3><p><code>HEU KMS Activator</code> 是一款简洁高效的KMS&#x2F;OEM智能激活工具，适用所有Windows、Office版本，无需联网即可一键激活，支持UEFI的KMS激活工具。KMS服务是微软对Windows、Office等产品的批量许可服务，利用KMS可以激活局域网内的产品。该工具利用KMS机制在系统搭建KMS服务器，从而实现在线或离线激活。<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/office/yt26.webp"
+                      alt="HEU KMS Activator"
+                ><figcaption>HEU KMS Activator</figcaption></figure></p>
+<a class="button  regular" href='/download/?id=aHR0cHM6Ly9peXV0b25nMTMxNC5sYW56b3ViLmNvbS9pbEQySjJvbHpka2I=' title='本地下载'><i class='fa-solid fa-download'></i> 本地下载</a>
+<a class="button  regular" href='/go/?url=aHR0cHM6Ly9naXRodWIuY29tL3piZXpqL0hFVV9LTVNfQWN0aXZhdG9yL3JlbGVhc2Vz' title='官方下载'><i class='fa-solid fa-download'></i> 官方下载</a>
+<h2 id="三、Office-安装"><a   href="#三、Office-安装"  class="headerlink" title="三、Office 安装"></a>三、Office 安装</h2><p>解压<a   href="#1-Office-Tool-Plus" >步骤二</a>中下载的压缩包,若无法解压请更换解压软件.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/office/yt27.webp"
+                      alt="Office Tool Plus"
+                ><figcaption>Office Tool Plus</figcaption></figure><br>双击 <code>Office Tool Plus.exe</code> 运行程序,弹出 <code>许可条款</code> 对话框.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/office/yt28.webp"
+                      alt="许可条款"
+                ><figcaption>许可条款</figcaption></figure><br>单击 <code>是</code> 按钮打开窗口.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/office/yt32.webp"
+                      alt="窗口"
+                ><figcaption>窗口</figcaption></figure><br>单击 <code>安装 Office</code> 按钮,转跳到 <code>部署</code> 页面,并根据实际情况进行设置,例如:<br>设置 <code>部署模式</code> 为 <code>安装</code>, <code>体系结构</code> 为 <code>64 位</code>, 启用 <code>下载后再部署</code> 等等.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/office/yt33.webp"
+                      alt="部署"
+                ><figcaption>部署</figcaption></figure><br>向下滑动,单击 <code>添加产品</code> 按钮,在弹出的窗口中选择你想要安装的版本.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/office/yt34.webp"
+                      alt="添加产品"
+                ><figcaption>添加产品</figcaption></figure><br>单击 <code>确定</code> 按钮,完成添加产品.</p>
+
+  <div class="note p-4 mb-4 rounded-small warning">
+    <p>在 <code>应用程序</code> 中可以关闭自己不想安装的软件.  </p>
+
+  </div>
+
+<p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/office/yt29.webp"
+                      alt="添加"
+                ><figcaption>添加</figcaption></figure><br>单击 <code>添加语言</code> 按钮,在弹出的窗口中现在你想要安装的语言包.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/office/yt35.webp"
+                      alt="添加语言"
+                ><figcaption>添加语言</figcaption></figure><br>选择好后单击 <code>确定</code> 按钮,关闭弹窗.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/office/yt36.webp"
+                      alt="添加"
+                ><figcaption>添加</figcaption></figure><br>滑动到顶部,单击 <code>开始部署</code> 按钮,弹出 <code>准备好部署 Office 了吗?</code> 询问框.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/office/yt37.webp"
+                      alt="准备好部署 Office 了吗?"
+                ><figcaption>准备好部署 Office 了吗?</figcaption></figure><br>检查弹窗中的信息是否正确,确定无误后单击 <code>是</code> 按钮,然后软件会自动化安装 <code>Office</code>,全程请不要乱动软件.</p>
+
+  <div class="note p-4 mb-4 rounded-small warning">
+    <p>若弹出 <code>是否需要校验 Office 安装文件以检查潜在的错误?</code> 询问框建议点击 <code>是</code>. </p>
+
+  </div>
+
+<p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/office/yt38.webp"
+                      alt="下载资源"
+                ><figcaption>下载资源</figcaption></figure><br>文件下载完成以后会自动开始安装.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/office/yt39.webp"
+                      alt="安装"
+                ><figcaption>安装</figcaption></figure><br>耐心等等安装完成皆可.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/office/yt40.webp"
+                      alt="安装完成"
+                ><figcaption>安装完成</figcaption></figure><br>单击 <code>关闭</code> 按钮完成安装.</p>
+<h2 id="四、Office-破解激活"><a   href="#四、Office-破解激活"  class="headerlink" title="四、Office 破解激活"></a>四、Office 破解激活</h2><p><code>Office Tool Plus</code> 虽然也有激活功能,但使用起来比较麻烦,所以我这里使用 <code>HEU KMS Activator</code> 进行破解激活.<br>解压<a   href="#2-HEU-KMS-Activator" >步骤二</a>中下载的压缩包,若无法解压请更换解压软件.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/office/yt44.webp"
+                      alt="HEU KMS Activator"
+                ><figcaption>HEU KMS Activator</figcaption></figure><br>双击 <code>HEU_KMS_Activator_v42.2.0.exe</code> 运行程序,弹出 <code>【免表声明】</code> 对话框.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/office/yt45.webp"
+                      alt="免表声明"
+                ><figcaption>免表声明</figcaption></figure><br>单击 <code>是</code> 按钮,打开窗口.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/office/yt46.webp"
+                      alt="HEU KMS Activator"
+                ><figcaption>HEU KMS Activator</figcaption></figure><br>根据自己需求进行勾选,建议选择上 <code>激活Office</code> <code>KMS自动续期</code> <code>劫持Office</code> </p>
+
+  <div class="note p-4 mb-4 rounded-small warning">
+    <p>如果激活不成功,就全部选择上试试. </p>
+
+  </div>
+
+<p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/office/yt47.webp"
+                      alt="选择需求"
+                ><figcaption>选择需求</figcaption></figure><br>单击 <code>开始</code> 按钮,等等下方进度条跑完.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/office/yt31.webp"
+                      alt="开始激活"
+                ><figcaption>开始激活</figcaption></figure><br>进度条,加载完成以后,弹出 <code>激活信息</code> 对话框,查看自己想激活的功能是否已经激活.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/office/yt24.webp"
+                      alt="激活信息"
+                ><figcaption>激活信息</figcaption></figure><br>现在软件就已经激活完成啦,单击 <code>确定</code> 关闭弹窗,并关闭 <code>HEU KMS Activator</code> 就可以了.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/office/yt1.webp"
+                      alt="激活完成"
+                ><figcaption>激活完成</figcaption></figure></p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+        <tag>破解</tag>
+        <tag>激活</tag>
+        <tag>Office</tag>
+        <tag>Word</tag>
+        <tag>Excel</tag>
+        <tag>PowerPoin</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>文章编辑中</title>
+    <url>/posts/5719428e/</url>
+    <content><![CDATA[<p>网站重新部署，文章正在加急重新编写中。</p>
+]]></content>
+      <categories>
+        <category>其他</category>
+      </categories>
+      <tags>
+        <tag>其他</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>学习通插件安装与使用</title>
+    <url>/posts/4fc161a6/</url>
+    <content><![CDATA[<h2 id="一、介绍"><a   href="#一、介绍"  class="headerlink" title="一、介绍"></a>一、介绍</h2><p><code>超星学习通小助手</code> 是一个 <code>Tampermonkey</code> 脚本,支持超星视频、文档、答题、自定义正确率、掉线自动登录🤘取消视频文件加载，多开也不占用网速，放心追剧🍊自定义答题正确率，提高学习效率🍆每日功能测试，在发现问题前就解决问题，防清进度，无不良记录.</p>
+<h2 id="二、Tampermonkey安装"><a   href="#二、Tampermonkey安装"  class="headerlink" title="二、Tampermonkey安装"></a>二、Tampermonkey安装</h2><p>打开 <code>Edge</code> 浏览器,单击下方链接,打开插件安装页面.<br><a   href="/go/?url=aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC9paWtta2ptcGFhZGFvYmFobWxlcGVsb2VuZG5kZnBoZA==" >https://microsoftedge.microsoft.com/addons/detail/iikmkjmpaadaobahmlepeloendndfphd</a>   </p>
+<p><a   href="/go/?url=aHR0cHM6Ly9taWNyb3NvZnRlZGdlLm1pY3Jvc29mdC5jb20vYWRkb25zL2RldGFpbC9saWlsZ3BqZ2Fib2tka2xhcHBpYmNqZmFibGtwY2VraA==" >https://microsoftedge.microsoft.com/addons/detail/liilgpjgabokdklappibcjfablkpcekh</a><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/xxt/yt2.webp"
+                      alt="Tampermonkey"
+                ><figcaption>Tampermonkey</figcaption></figure><br>单击 <code>获取</code> 按钮,弹出确认添加对话框.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/xxt/yt7.webp"
+                      alt="Tampermonkey"
+                ><figcaption>Tampermonkey</figcaption></figure><br>单击 <code>添加扩展</code> 按钮,添加插件,并自动转跳 <code>Tampermonkey</code> 官网.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/xxt/yt3.webp"
+                      alt="Tampermonkey"
+                ><figcaption>Tampermonkey</figcaption></figure></p>
+<h2 id="三、超星学习通小助手安装"><a   href="#三、超星学习通小助手安装"  class="headerlink" title="三、超星学习通小助手安装"></a>三、超星学习通小助手安装</h2><p>打开 <code>Edge</code> 浏览器,单击下方链接,打开脚本主页.<br><a   href="/go/?url=aHR0cHM6Ly9ncmVhc3lmb3JrLm9yZy96aC1DTi9zY3JpcHRzLzQ2Mjc0OC0lRTUlODclOEYlRTglQjQlOUYlRTclQTQlQkUlRTUlOEMlQkEtJUU4JUI2JTg1JUU2JTk4JTlGJUU1JUFEJUE2JUU0JUI5JUEwJUU5JTgwJTlBJUU1JUIwJThGJUU1JThBJUE5JUU2JTg5JThCLSVFNSVBRSU4QyVFNSU4NSVBOCVFNSU4NSU4RCVFOCVCNCVCOS0lRTglQTclODYlRTklQTIlOTEtJUU3JUFCJUEwJUU4JThBJTgyJUU2JUI1JThCJUU4JUFGJTk1LSVFOCU4NyVBQSVFNSU4QSVBOCVFNiU4QyU4MiVFNiU5QyVCQS0lRTklOTglQjIlRTYlQjglODUlRTglQkYlOUIlRTUlQkElQTYtJUU0JUI4JThEJUU1JThEJUEwJUU4JUI1JTg0JUU2JUJBJTkw" >https://greasyfork.org/zh-CN/scripts/462748-减负社区-超星学习通小助手-完全免费-视频-章节测试-自动挂机-防清进度-不占资源</a></p>
+<p><a   href="/go/?url=aHR0cHM6Ly9zY3JpcHRjYXQub3JnL3poLUNOL3NjcmlwdC1zaG93LXBhZ2UvODc4" >https://scriptcat.org/zh-CN/script-show-page/878</a><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/xxt/yt9.webp"
+                      alt="超星学习通小助手"
+                ><figcaption>超星学习通小助手</figcaption></figure><br>单击 <code>安装此脚本</code> 按钮,转跳到安装页面.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/xxt/yt8.webp"
+                      alt="超星学习通小助手"
+                ><figcaption>超星学习通小助手</figcaption></figure><br>单击 <code>安装</code> 按钮,此刻 <code>安装</code> 会变成 <code>重新安装</code> 此刻就安装完成了.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/xxt/yt4.webp"
+                      alt="超星学习通小助手"
+                ><figcaption>超星学习通小助手</figcaption></figure></p>
+<h2 id="四、刷课教程"><a   href="#四、刷课教程"  class="headerlink" title="四、刷课教程"></a>四、刷课教程</h2><p>打开 <code>Edge</code> 浏览器,访问学习通官方网站,并找到你需要刷的课程.<br>啥?你说你不知道在哪里找,那你问你老师去吧.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/xxt/yt10.webp"
+                      alt="学习通"
+                ><figcaption>学习通</figcaption></figure><br>点击你需要刷的课时,插件会自动拦截原来的网页,并显示这样.<br>在 <code>视频倍速</code> 后面的文本框中输入数字,点击 <code>保存</code> 按钮,设置视频倍速.  </p>
+
+  <div class="note p-4 mb-4 rounded-small warning">
+    <p>如果还是默认页面,请重启浏览器,如果依然无效请检查 <code>Edge浏览器</code> 插件中有没有开启 <code>Tampermonkey</code> 插件,并检查 <code>Tampermonkey</code> 中有没有开启这个脚本.<br>开启倍数可能会被清进度的，不建议开启，如果开,建议不要超过3倍数.  </p>
+
+  </div>
+
+<p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/xxt/yt5.webp"
+                      alt="学习通"
+                ><figcaption>学习通</figcaption></figure><br>下一步设置题库Token,如果不设置,脚本无法自动答题.<br>打开 <code>微信</code> 搜索 <code>一之哥哥</code> 公众号,并关注他<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/xxt/yt1.webp"
+                      alt="一之哥哥"
+                ><figcaption>一之哥哥</figcaption></figure><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/xxt/yt13.webp"
+                      alt="一之哥哥"
+                ><figcaption>一之哥哥</figcaption></figure><br>给公众号发送消息 <code>token</code> 获取 <code>Token</code><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/xxt/yt12.webp"
+                      alt="一之哥哥"
+                ><figcaption>一之哥哥</figcaption></figure><br>复制 Token 并粘贴到 <code>题库Token</code> 后面的文本框中,单击 <code>保存</code> 按钮,保存设置<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/xxt/yt11.webp"
+                      alt="学习通"
+                ><figcaption>学习通</figcaption></figure><br>全部设置完成以后,可以查看 <code>运行日志</code> 看看是否正在运行.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/xxt/yt6.webp"
+                      alt="学习通"
+                ><figcaption>学习通</figcaption></figure></p>
+<h2 id="五、脚本高级玩法"><a   href="#五、脚本高级玩法"  class="headerlink" title="五、脚本高级玩法"></a>五、脚本高级玩法</h2><p>首先，在学习通页面点击窗口右上角的脚本猫&#x2F;油猴图标，选择此脚本，然后点击“编辑”<br>在脚本代码第40行左右找到自定义参数，每个参数后面都有备注解释，修改后按Ctrl+S保存，然后刷新学习通页面即可”<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/xxt/yt14.webp"
+                      alt="超星学习通小助手"
+                ><figcaption>超星学习通小助手</figcaption></figure></p>
+]]></content>
+      <categories>
+        <category>分享</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+        <tag>学习通</tag>
+        <tag>插件</tag>
+        <tag>分享</tag>
+        <tag>Tampermonkey</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>思绪思维导图VIP破解</title>
+    <url>/posts/b8f5a6aa/</url>
+    <content><![CDATA[<h2 id="一、介绍"><a   href="#一、介绍"  class="headerlink" title="一、介绍"></a>一、介绍</h2><p><code>思绪思维导图</code> 是一款功能强大的思维导图软件，它可以帮助用户快速创建和组织思维导图，以便更好地理解和表达想法。<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/sxswdtvippj/yt00.webp"
+                      alt="思绪思维导图"
+                ><figcaption>思绪思维导图</figcaption></figure><br>这软件是开源免费的，但是有一些功能特殊功能并不免费，需要购买VIP才能使用。<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/sxswdtvippj/yt01.webp"
+                      alt="思绪思维导图VIP"
+                ><figcaption>思绪思维导图VIP</figcaption></figure></p>
+<h2 id="二、破解"><a   href="#二、破解"  class="headerlink" title="二、破解"></a>二、破解</h2><h3 id="1-网络分析"><a   href="#1-网络分析"  class="headerlink" title="1.网络分析"></a>1.网络分析</h3><p>使用抓包工具抓取网络请求，发现VIP功能的逻辑是通过发送一个请求来验证用户是否为VIP用户。<br>分析网络请求，发现VIP功能的逻辑是通过发送一个请求，获取所有VIP用户的机器码，本地判断本机机器码是否包含在里面。<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/sxswdtvippj/yt02.webp"
+                      alt="思绪思维导图VIP"
+                ><figcaption>思绪思维导图VIP</figcaption></figure><br>我们拦截重写这个请求，返回一个包含本机机器码的响应，进行测试我们的猜想是否正确。<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/sxswdtvippj/yt03.webp"
+                      alt="思绪思维导图VIP"
+                ><figcaption>思绪思维导图VIP</figcaption></figure><br>刷新会员状态，发现VIP功能已经生效，我们的猜想是正确的。<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/sxswdtvippj/yt04.webp"
+                      alt="思绪思维导图VIP"
+                ><figcaption>思绪思维导图VIP</figcaption></figure></p>
+<h3 id="2-分析并反编译软件"><a   href="#2-分析并反编译软件"  class="headerlink" title="2.分析并反编译软件"></a>2.分析并反编译软件</h3><p>查看APP文件夹，非常轻松的就能发现，在软件是 <code>Electron</code> 项目。<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/sxswdtvippj/yt05.webp"
+                      alt="思绪思维导图文件目录"
+                ><figcaption>思绪思维导图文件目录</figcaption></figure><br>众所周知，<code>Electron</code> 项目的代码在 <code>resources</code> 文件夹下的 <code>app.asar</code> 文件里面。<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/sxswdtvippj/yt06.webp"
+                      alt="思绪思维导图asar文件"
+                ><figcaption>思绪思维导图asar文件</figcaption></figure><br>我们可以使用 <code>asar</code> 工具来解压这个文件，所以我们需要下载 <code>asar</code> 工具,使用以下命令安装。</p>
+<div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">npm install --engine-strict asar</span><br></pre></td></tr></table></figure></div>
+<p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/sxswdtvippj/yt07.webp"
+                      alt="asar安装"
+                ><figcaption>asar安装</figcaption></figure><br>下载完成以后，我们使用 <code>asar</code> 工具来解压 <code>app.asar</code> 文件，得到一个 <code>app</code> 文件夹。</p>
+<div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">asar e app.asar app</span><br></pre></td></tr></table></figure></div>
+<p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/sxswdtvippj/yt08.webp"
+                      alt="解压asar文件"
+                ><figcaption>解压asar文件</figcaption></figure></p>
+<h3 id="3-分析并修改代码"><a   href="#3-分析并修改代码"  class="headerlink" title="3.分析并修改代码"></a>3.分析并修改代码</h3><p>全局搜索他获取vip时访问的链接，定位到他的代码。<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/sxswdtvippj/yt09.webp"
+                      alt="全局搜索"
+                ><figcaption>全局搜索</figcaption></figure><br>分析跟踪原始代码,发现是请求完以后判断是否包含本机机器码,如果包含就附值true,否则附值false.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/sxswdtvippj/yt10.webp"
+                      alt="分析"
+                ><figcaption>分析</figcaption></figure><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/sxswdtvippj/yt11.webp"
+                      alt="分析"
+                ><figcaption>分析</figcaption></figure><br>直接修改代码,把判断条件改为true,这样就可以一直是VIP用户了.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/sxswdtvippj/yt12.webp"
+                      alt="修改"
+                ><figcaption>修改</figcaption></figure><br>同理处理第二处.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/sxswdtvippj/yt13.webp"
+                      alt="修改"
+                ><figcaption>修改</figcaption></figure><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/sxswdtvippj/yt14.webp"
+                      alt="修改"
+                ><figcaption>修改</figcaption></figure></p>
+<h3 id="4-打包并替换"><a   href="#4-打包并替换"  class="headerlink" title="4.打包并替换"></a>4.打包并替换</h3><p>修改完成以后，我们使用 <code>asar</code> 工具来 <code>app</code> 文件夹重新打包成 <code>app.asar</code> 文件。</p>
+<div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">asar p app app.asar</span><br></pre></td></tr></table></figure></div>
+<p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/sxswdtvippj/yt15.webp"
+                      alt="打包"
+                ><figcaption>打包</figcaption></figure><br>最后我们把修改后的 <code>app.asar</code> 文件替换原来的 <code>app.asar</code> 文件。<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/sxswdtvippj/yt16.webp"
+                      alt="替换"
+                ><figcaption>替换</figcaption></figure></p>
+<h3 id="5-完成"><a   href="#5-完成"  class="headerlink" title="5.完成"></a>5.完成</h3><p>重新运行软件,此时VIP功能已经生效。<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/sxswdtvippj/yt17.webp"
+                      alt="成功"
+                ><figcaption>成功</figcaption></figure><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/sxswdtvippj/yt18.webp"
+                      alt="成功"
+                ><figcaption>成功</figcaption></figure></p>
+]]></content>
+      <categories>
+        <category>教程</category>
+        <category>破解</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+        <tag>破解</tag>
+        <tag>思维导图</tag>
+        <tag>思绪思维导图</tag>
+        <tag>VIP</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>文件内容批量化替换</title>
+    <url>/posts/fca88aae/</url>
+    <content><![CDATA[<h2 id="一、介绍"><a   href="#一、介绍"  class="headerlink" title="一、介绍"></a>一、介绍</h2><p>最近在开发嵌入式操作系统，因为UI部分使用可视化工具制作的，所以需要编译UI为C语言并放到项目文件中，又因为可视化工具直接导出的C语言文件引入库的部分与我项目不一样，每次导出后想编译都需要手动修改，非常麻烦，并且浪费时间，所以学了一下Windows系统的脚本语言 <code>PowerShell</code> 写了个批处理程序来实现自动化批量修改。  </p>
+<blockquote>
+<p><code>PowerShell</code> 是微软在 <code>Windows10</code> 开始引入的全新脚本，后缀文件为<code>.ps1</code>，只能在Windows10之后的系统中运行。  </p>
+</blockquote>
+<h2 id="二、代码开发"><a   href="#二、代码开发"  class="headerlink" title="二、代码开发"></a>二、代码开发</h2><h3 id="1-获取所有指定扩展名的文件并递归搜索子文件夹"><a   href="#1-获取所有指定扩展名的文件并递归搜索子文件夹"  class="headerlink" title="1.获取所有指定扩展名的文件并递归搜索子文件夹"></a>1.获取所有指定扩展名的文件并递归搜索子文件夹</h3><p>这里我们使用 <code>Get-ChildItem</code> 命令获取指定路径下的文件和文件夹。  </p>
+<blockquote>
+<p><code>-Path</code>：指定要获取子项的路径。默认为当前路径。<br><code>-Recurse</code>：递归地获取指定路径下的所有子项。<br><code>-Include</code>：只获取具有指定名称模式的文件或文件夹。<br><code>-Exclude</code>：排除具有指定名称模式的文件或文件夹。<br><code>-Filter</code>：使用 Windows Shell 表达式来筛选文件和文件夹。<br><code>-Name</code>：仅返回文件和文件夹的名称，而不是完整路径。<br><code>-Force</code>：强制获取文件和文件夹，即使它们被隐藏或系统文件也是如此。  </p>
+</blockquote>
+<p>然后使用 <code>ForEach-Object</code> 命令对每个输入的对象执行指定的操作。  </p>
+<blockquote>
+<p><code>-InputObject</code>：指定要处理的对象。通常通过管道传递。<br><code>-Begin</code>：在处理任何对象之前执行的脚本块。<br><code>-Process</code>：对每个输入对象执行的脚本块。<br><code>-End</code>：在处理所有对象之后执行的脚本块。<br><code>-Remaining</code>：在管道关闭后，对剩余的对象执行的脚本块。<br><code>-ThrottleLimit</code>：限制并发操作的数量。  </p>
+</blockquote>
+<h4 id="事例："><a   href="#事例："  class="headerlink" title="事例："></a>事例：</h4><div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">Get-ChildItem -Path &quot;文件夹路径&quot; -Recurse -Include &quot;文件后缀&quot; | ForEach-Object &#123;</span><br><span class="line"><span class="meta prompt_"> # </span><span class="language-bash">需要批处理的脚本</span></span><br><span class="line"><span class="meta prompt_"> # </span><span class="language-bash">可通过 <span class="variable">$_</span> 变量来获取当前管道中的对象</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></div>
+
+<h3 id="2-使用指定的编码读取文件的全部内容"><a   href="#2-使用指定的编码读取文件的全部内容"  class="headerlink" title="2.使用指定的编码读取文件的全部内容"></a>2.使用指定的编码读取文件的全部内容</h3><p>这里我们使用 <code>Get-Content</code> 命令读取上一步中获取到的文件内容。</p>
+<blockquote>
+<p><code>-Path</code>：指定要读取内容的文件的路径。可以使用通配符来选择多个文件。<br><code>-ReadCount</code>：指定每次读取的行数。默认值为 1，表示一次读取一行。<br><code>-TotalCount</code>：指定要读取的总行数。可以是一个数字或 All，表示读取所有行。<br><code>-Tail</code>：指定要读取的最后几行。例如，-Tail 10 表示读取最后 10 行。<br><code>-Wait</code>：持续监视文件，并在有新内容时读取。适用于日志文件等场景。<br><code>-Delimiter</code>：指定行分隔符。默认为换行符。<br><code>-Encoding</code>：指定文件的编码格式。例如，UTF8、ASCII 等。<br><code>-Raw</code>：以原始格式读取文件内容，不进行任何处理。<br><code>-NoNewline</code>：在输出内容时不添加换行符。  </p>
+</blockquote>
+<h4 id="事例：-1"><a   href="#事例：-1"  class="headerlink" title="事例："></a>事例：</h4><div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash">把读取到的内容复值给变量 content</span></span><br><span class="line"><span class="meta prompt_">$</span><span class="language-bash">content = Get-Content <span class="variable">$_</span>.FullName -Raw -Encoding UTF8</span></span><br></pre></td></tr></table></figure></div>
+<h3 id="3-遍历所以替换规则并进行替换"><a   href="#3-遍历所以替换规则并进行替换"  class="headerlink" title="3.遍历所以替换规则并进行替换"></a>3.遍历所以替换规则并进行替换</h3><p>因为往往我们需要替换好几组数据所以我们先创建一个哈希表然后在用 <code>foreach</code> 循环遍历哈希表  </p>
+<h4 id="事例：-2"><a   href="#事例：-2"  class="headerlink" title="事例："></a>事例：</h4><div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash">创建哈希表，并复值给变量 replacements</span></span><br><span class="line"><span class="meta prompt_">$</span><span class="language-bash">replacements = @&#123;</span></span><br><span class="line">    &#x27;原来的文字1&#x27; = &#x27;替换后的文字1&#x27;</span><br><span class="line">    &#x27;原来的文字2&#x27; = &#x27;替换后的文字2&#x27;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">foreach ($key in $replacements.Keys) &#123;</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">需要处理的操作代码</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></div>
+
+<p>然后使用 <code>-replace</code> 运算符，对字符串进行查找和替换操作</p>
+<h4 id="事例：-3"><a   href="#事例：-3"  class="headerlink" title="事例："></a>事例：</h4><div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta prompt_">$</span><span class="language-bash">content = <span class="variable">$content</span> -replace <span class="variable">$key</span>, <span class="variable">$replacements</span>[<span class="variable">$key</span>]</span></span><br></pre></td></tr></table></figure></div>
+
+<h3 id="4-将替换后的内容使用指定的编码写回文件"><a   href="#4-将替换后的内容使用指定的编码写回文件"  class="headerlink" title="4.将替换后的内容使用指定的编码写回文件"></a>4.将替换后的内容使用指定的编码写回文件</h3><p>这里我们使用 <code>Set-Content</code> 命令把文本保存到文件中去。</p>
+<blockquote>
+<p>-Path：指定要写入内容的文件的路径。可以使用通配符来选择多个文件。<br>-Value：指定要写入文件的内容。可以是字符串、数组或其他对象。<br>-Force：强制写入文件，即使文件已存在或只读。<br>-Append：将内容追加到文件末尾，而不是覆盖现有内容。<br>-Encoding：指定文件的编码格式。例如，UTF8、ASCII 等。<br>-PassThru：将输出发送到管道，而不是写入文件。  </p>
+</blockquote>
+<h4 id="事例：-4"><a   href="#事例：-4"  class="headerlink" title="事例："></a>事例：</h4><div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line">Set-Content -Path $_.FullName -Value $content -Encoding UTF8</span><br></pre></td></tr></table></figure></div>
+
+<h2 id="三、完整代码"><a   href="#三、完整代码"  class="headerlink" title="三、完整代码"></a>三、完整代码</h2><p>废话不多说直接上代码</p>
+<div class="code-container" data-rel="Shell"><figure class="iseeu highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta prompt_">#</span><span class="language-bash">iyutong.cn</span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">定义要修改的文件夹路径</span></span><br><span class="line"><span class="meta prompt_">$</span><span class="language-bash">folder = <span class="string">&quot;D:\Project\CLion\esp32s3\src\ui&quot;</span></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">定义要替换的多组文字</span></span><br><span class="line"><span class="meta prompt_">$</span><span class="language-bash">replacements = @&#123;</span></span><br><span class="line">    &#x27;#include &quot;custom.h&quot;&#x27; = &#x27;#include &quot;../custom/custom.h&quot;&#x27;</span><br><span class="line">    &#x27;#include &quot;lvgl/lvgl.h&quot;&#x27; = &#x27;#include &quot;lvgl.h&quot;&#x27;</span><br><span class="line">    &#x27;#include &quot;lv_font.h&quot;&#x27; = &#x27;#include &quot;lvgl.h&quot;&#x27;</span><br><span class="line">    &#x27;#include &quot;gui_guider.h&quot;&#x27; = &#x27;#include &quot;../generated/gui_guider.h&quot;&#x27;</span><br><span class="line">&#125;</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">定义要修改的文件扩展名</span></span><br><span class="line"><span class="meta prompt_">$</span><span class="language-bash">fileExtensions = @(<span class="string">&quot;.h&quot;</span>, <span class="string">&quot;.c&quot;</span>)</span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">定义文件编码</span></span><br><span class="line"><span class="meta prompt_">$</span><span class="language-bash">encoding = <span class="string">&quot;UTF8&quot;</span></span></span><br><span class="line">Get-ChildItem -Path $folder -Recurse -Include $fileExtensions | ForEach-Object &#123;</span><br><span class="line">    $content = Get-Content $_.FullName -Raw -Encoding $encoding</span><br><span class="line">    foreach ($key in $replacements.Keys) &#123;</span><br><span class="line">        $content = $content -replace $key, $replacements[$key]</span><br><span class="line">    &#125;</span><br><span class="line">    Set-Content -Path $_.FullName -Value $content -Encoding $encoding</span><br><span class="line">&#125;</span><br><span class="line">Write-Host &quot;批量化替换成功！&quot;</span><br><span class="line">Read-Host -Prompt &quot;按回车建退出...&quot;</span><br></pre></td></tr></table></figure></div>
+
+
+  <div class="note p-4 mb-4 rounded-small warning">
+    <p>定义要替换的多组文字时，建议把需要修改文字的前后内容都添加进去，就行我代码中一样，防止在代码发生重复运行时出现重复添加文字的情况发生。 </p>
+
+  </div>
+
+<h2 id="四、运行脚本"><a   href="#四、运行脚本"  class="headerlink" title="四、运行脚本"></a>四、运行脚本</h2><p>新建一个 <code>.txt</code> 文本文件<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/wjnrplhcl/0.webp"
+                      alt="新建"
+                ><figcaption>新建</figcaption></figure><br>重命名，并修改后缀名为 <code>.ps1</code><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/wjnrplhcl/1.webp"
+                      alt="重命名"
+                ><figcaption>重命名</figcaption></figure><br>用记事本打开文件<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/wjnrplhcl/2.webp"
+                      alt="打开"
+                ><figcaption>打开</figcaption></figure><br>把<a   href="#%E4%B8%89-%E5%AE%8C%E6%95%B4%E4%BB%A3%E7%A0%81" >步骤三</a>中的代码复制到文件中，并保存文件（快捷键 <code>Ctrl</code>+<code>S</code>）<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/wjnrplhcl/3.webp"
+                      alt="保存"
+                ><figcaption>保存</figcaption></figure><br>右键文件选择 <code>使用 PowerShell 运行</code><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/wjnrplhcl/4.webp"
+                      alt="运行"
+                ><figcaption>运行</figcaption></figure><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/wjnrplhcl/5.webp"
+                      alt="运行"
+                ><figcaption>运行</figcaption></figure></p>
+<h2 id="五、补充"><a   href="#五、补充"  class="headerlink" title="五、补充"></a>五、补充</h2><p>如果运行代码中文乱码，请另存文件并修改编码为 <code>ANSI</code><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/wjnrplhcl/6.webp"
+                      alt="乱码"
+                ><figcaption>乱码</figcaption></figure><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/wjnrplhcl/7.webp"
+                      alt="乱码"
+                ><figcaption>乱码</figcaption></figure></p>
+]]></content>
+      <categories>
+        <category>PowerShell</category>
+      </categories>
+      <tags>
+        <tag>分享</tag>
+        <tag>脚本</tag>
+        <tag>PowerShell</tag>
+        <tag>ps1</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>自动登录校园网</title>
+    <url>/posts/bb01f2a2/</url>
+    <content><![CDATA[<h2 id="一、需求的起源"><a   href="#一、需求的起源"  class="headerlink" title="一、需求的起源"></a>一、需求的起源</h2><p>打开电脑,提示无网络.不对啊,我插了网线的啊,<br>一看校园网认证过期了,需要重新认证.啊这…<br>原来ip超过1天不在线自动下线.靠不能每次开机以后都去认证吧,弄个开机自动认证吧.<br>于是有了这个文章</p>
+<h2 id="二、开发过程"><a   href="#二、开发过程"  class="headerlink" title="二、开发过程"></a>二、开发过程</h2><h3 id="1-抓包分析"><a   href="#1-抓包分析"  class="headerlink" title="1.抓包分析"></a>1.抓包分析</h3><p>打开认证页面按下 <code>F12</code> 打开开发人员工具,选择 <code>网络</code> 选项卡,如下图:<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/xyw/img.webp"
+                      alt="校园网"
+                ><figcaption>校园网</figcaption></figure>     </p>
+<p>输入账号密码,单击登录按钮,查看网站都干了啥.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/xyw/img_1.webp"
+                      alt="校园网"
+                ><figcaption>校园网</figcaption></figure></p>
+<p>非常明显的发现.点击登录以后,网页向 <code>http://2.2.2.1:8888/webauth.do?wlanacname=TPdcxy</code> 发送了一个POST请求<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/xyw/img_2.webp"
+                      alt="校园网"
+                ><figcaption>校园网</figcaption></figure></p>
+<h3 id="2-分析数据"><a   href="#2-分析数据"  class="headerlink" title="2.分析数据"></a>2.分析数据</h3><p>选择 <code>负载</code> 选项卡,可以看到POST请求的表单数据,非常明显 <code>userld</code> 与 <code>passwd</code> 就是我们的账号密码,也是必须提交的数据<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/xyw/img_3.webp"
+                      alt="校园网"
+                ><figcaption>校园网</figcaption></figure></p>
+<h3 id="3-模拟请求"><a   href="#3-模拟请求"  class="headerlink" title="3.模拟请求"></a>3.模拟请求</h3><p>数据已经分析的差不多了,那么就可以编写代码,模拟请求看看是否正常了<br>我这里使用Java进行测试</p>
+<div class="code-container" data-rel="Java"><figure class="iseeu highlight java"><table><tr><td class="code"><pre><span class="line"><span class="type">OkHttpClient</span> <span class="variable">client</span> <span class="operator">=</span> <span class="keyword">new</span> <span class="title class_">OkHttpClient</span>().newBuilder()</span><br><span class="line">   .build();</span><br><span class="line"><span class="type">MediaType</span> <span class="variable">mediaType</span> <span class="operator">=</span> MediaType.parse(<span class="string">&quot;application/x-www-form-urlencoded&quot;</span>);</span><br><span class="line"><span class="type">RequestBody</span> <span class="variable">body</span> <span class="operator">=</span> RequestBody.create(mediaType, <span class="string">&quot;pageid=142&amp;userId=账号&amp;passwd=密码&quot;</span>);</span><br><span class="line"><span class="type">Request</span> <span class="variable">request</span> <span class="operator">=</span> <span class="keyword">new</span> <span class="title class_">Request</span>.Builder()</span><br><span class="line">   .url(<span class="string">&quot;http://2.2.2.1:8888/webauth.do?wlanacname=TPdcxy&quot;</span>)</span><br><span class="line">   .method(<span class="string">&quot;POST&quot;</span>, body)</span><br><span class="line">   .addHeader(<span class="string">&quot;User-Agent&quot;</span>, <span class="string">&quot;Apifox/1.0.0 (https://apifox.com)&quot;</span>)</span><br><span class="line">   .addHeader(<span class="string">&quot;Content-Type&quot;</span>, <span class="string">&quot;application/x-www-form-urlencoded&quot;</span>)</span><br><span class="line">   .addHeader(<span class="string">&quot;Accept&quot;</span>, <span class="string">&quot;*/*&quot;</span>)</span><br><span class="line">   .addHeader(<span class="string">&quot;Host&quot;</span>, <span class="string">&quot;2.2.2.1:8888&quot;</span>)</span><br><span class="line">   .addHeader(<span class="string">&quot;Connection&quot;</span>, <span class="string">&quot;keep-alive&quot;</span>)</span><br><span class="line">   .build();</span><br><span class="line"><span class="type">Response</span> <span class="variable">response</span> <span class="operator">=</span> client.newCall(request).execute();</span><br></pre></td></tr></table></figure></div>
+<p>运行代码返回html数据解析html,截取我们需要的部分就可以了<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/xyw/img_4.webp"
+                      alt="校园网"
+                ><figcaption>校园网</figcaption></figure></p>
+<h2 id="三、编写完整的代码"><a   href="#三、编写完整的代码"  class="headerlink" title="三、编写完整的代码"></a>三、编写完整的代码</h2><p>废话不多说直接上代码</p>
+<div class="code-container" data-rel="Java"><figure class="iseeu highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">package</span> cn.iyutong;</span><br><span class="line"></span><br><span class="line"><span class="keyword">import</span> cn.hutool.core.codec.Base64;</span><br><span class="line"><span class="keyword">import</span> cn.hutool.core.util.ReUtil;</span><br><span class="line"><span class="keyword">import</span> cn.hutool.http.*;</span><br><span class="line"><span class="keyword">import</span> cn.hutool.json.JSONObject;</span><br><span class="line"><span class="keyword">import</span> cn.hutool.json.JSONUtil;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">Main</span> &#123;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title function_">main</span><span class="params">(String[] args)</span> &#123;</span><br><span class="line">        <span class="comment">// 设备认证</span></span><br><span class="line">        <span class="comment">// System.out.println(get_init_login(&quot;学号&quot;,&quot;教务处密码&quot;));</span></span><br><span class="line">        <span class="comment">// 设备下线</span></span><br><span class="line">        <span class="comment">// System.out.println(get_init_out(&quot;mac地址&quot;));</span></span><br><span class="line">        <span class="comment">// 当前设备信息查询</span></span><br><span class="line">        <span class="comment">// System.out.println(get_init_json());</span></span><br><span class="line">        <span class="comment">// ip认证</span></span><br><span class="line">        <span class="comment">// System.out.println(get_login_errMessage(&quot;学号&quot;,&quot;校园网认证密码&quot;));</span></span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">//线下设备</span></span><br><span class="line">    <span class="keyword">private</span> <span class="keyword">static</span> JSONObject <span class="title function_">get_init_out</span><span class="params">(String mac)</span>&#123;</span><br><span class="line">        <span class="keyword">try</span> (<span class="type">HttpResponse</span> <span class="variable">result</span> <span class="operator">=</span> HttpRequest.post(<span class="string">&quot;http://172.16.0.10:30004/byod/byodrs/login/loginOut&quot;</span>)</span><br><span class="line">                .header(<span class="string">&quot;Content-Type&quot;</span>, <span class="string">&quot;application/x-www-form-urlencoded; charset=UTF-8&quot;</span>)</span><br><span class="line">                .header(<span class="string">&quot;Accept&quot;</span>, <span class="string">&quot;*/*&quot;</span>)</span><br><span class="line">                .header(<span class="string">&quot;Host&quot;</span>, <span class="string">&quot;172.16.0.10:30004&quot;</span>)</span><br><span class="line">                .form(<span class="string">&quot;mac&quot;</span>, mac)</span><br><span class="line">                .timeout(<span class="number">20000</span>)</span><br><span class="line">                .execute()) &#123;</span><br><span class="line">            <span class="keyword">if</span> (!result.isOk()) <span class="keyword">return</span> JSONUtil.createObj()</span><br><span class="line">                    .set(<span class="string">&quot;code&quot;</span>,-<span class="number">1</span>)</span><br><span class="line">                    .set(<span class="string">&quot;msg&quot;</span>, String.valueOf(result.getStatus()));</span><br><span class="line">            <span class="type">JSONObject</span> <span class="variable">jsonObject</span> <span class="operator">=</span> JSONUtil.parseObj(result.body());</span><br><span class="line">            <span class="keyword">return</span> JSONUtil.createObj()</span><br><span class="line">                    .set(<span class="string">&quot;code&quot;</span>, jsonObject.getInt(<span class="string">&quot;code&quot;</span>))</span><br><span class="line">                    .set(<span class="string">&quot;msg&quot;</span>,  jsonObject.getStr(<span class="string">&quot;msg&quot;</span>));</span><br><span class="line">        &#125; <span class="keyword">catch</span> (Exception e) &#123;</span><br><span class="line">            <span class="keyword">return</span> JSONUtil.createObj()</span><br><span class="line">                    .set(<span class="string">&quot;code&quot;</span>,-<span class="number">1</span>)</span><br><span class="line">                    .set(<span class="string">&quot;msg&quot;</span>, e.getMessage());</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">//设备认证</span></span><br><span class="line">    <span class="keyword">private</span> <span class="keyword">static</span> JSONObject <span class="title function_">get_init_login</span><span class="params">(String userName,String userPassword)</span>&#123;</span><br><span class="line">        <span class="keyword">try</span> (<span class="type">HttpResponse</span> <span class="variable">result</span> <span class="operator">=</span> HttpRequest.post(<span class="string">&quot;http://172.16.0.10:30004/byod/byodrs/login/defaultLogin&quot;</span>)</span><br><span class="line">                .header(<span class="string">&quot;Content-Type&quot;</span>, <span class="string">&quot;application/json&quot;</span>)</span><br><span class="line">                .header(<span class="string">&quot;Accept&quot;</span>, <span class="string">&quot;*/*&quot;</span>)</span><br><span class="line">                .header(<span class="string">&quot;Host&quot;</span>, <span class="string">&quot;172.16.0.10:30004&quot;</span>)</span><br><span class="line">                .body(JSONUtil.createObj().set(<span class="string">&quot;userName&quot;</span>,userName).set(<span class="string">&quot;userPassword&quot;</span>, Base64.encode(userPassword)).toString())</span><br><span class="line">                .timeout(<span class="number">20000</span>)</span><br><span class="line">                .execute()) &#123;</span><br><span class="line">            <span class="keyword">if</span> (!result.isOk()) <span class="keyword">return</span> JSONUtil.createObj()</span><br><span class="line">                    .set(<span class="string">&quot;code&quot;</span>,-<span class="number">1</span>)</span><br><span class="line">                    .set(<span class="string">&quot;msg&quot;</span>, String.valueOf(result.getStatus()));</span><br><span class="line">            <span class="type">JSONObject</span> <span class="variable">jsonObject</span> <span class="operator">=</span> JSONUtil.parseObj(result.body());</span><br><span class="line">            <span class="keyword">return</span> JSONUtil.createObj()</span><br><span class="line">                    .set(<span class="string">&quot;code&quot;</span>, jsonObject.getInt(<span class="string">&quot;code&quot;</span>))</span><br><span class="line">                    .set(<span class="string">&quot;msg&quot;</span>,  jsonObject.getStr(<span class="string">&quot;msg&quot;</span>));</span><br><span class="line">        &#125; <span class="keyword">catch</span> (Exception e) &#123;</span><br><span class="line">            <span class="keyword">return</span> JSONUtil.createObj()</span><br><span class="line">                    .set(<span class="string">&quot;code&quot;</span>,-<span class="number">1</span>)</span><br><span class="line">                    .set(<span class="string">&quot;msg&quot;</span>, e.getMessage());</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">//获取设备信息</span></span><br><span class="line">    <span class="keyword">private</span> <span class="keyword">static</span> JSONObject <span class="title function_">get_init_json</span><span class="params">()</span>&#123;</span><br><span class="line">        <span class="keyword">try</span> (<span class="type">HttpResponse</span> <span class="variable">result</span> <span class="operator">=</span> HttpRequest.get(<span class="string">&quot;http://172.16.0.10:30004/byod/byodrs/init&quot;</span>)</span><br><span class="line">                .header(<span class="string">&quot;Content-Type&quot;</span>, <span class="string">&quot;application/x-www-form-urlencoded&quot;</span>)</span><br><span class="line">                .header(<span class="string">&quot;Accept&quot;</span>, <span class="string">&quot;*/*&quot;</span>)</span><br><span class="line">                .header(<span class="string">&quot;Host&quot;</span>, <span class="string">&quot;172.16.0.10:30004&quot;</span>)</span><br><span class="line">                .timeout(<span class="number">20000</span>)</span><br><span class="line">                .execute()) &#123;</span><br><span class="line">            <span class="keyword">if</span> (!result.isOk()) <span class="keyword">return</span> JSONUtil.createObj()</span><br><span class="line">                    .set(<span class="string">&quot;code&quot;</span>,-<span class="number">1</span>)</span><br><span class="line">                    .set(<span class="string">&quot;msg&quot;</span>, String.valueOf(result.getStatus()));</span><br><span class="line">            <span class="type">JSONObject</span> <span class="variable">jsonObject</span> <span class="operator">=</span> JSONUtil.parseObj(result.body());</span><br><span class="line">            <span class="keyword">if</span> (!(jsonObject.getInt(<span class="string">&quot;code&quot;</span>) == <span class="number">0</span>)) <span class="keyword">return</span> JSONUtil.createObj()</span><br><span class="line">                    .set(<span class="string">&quot;code&quot;</span>,-<span class="number">1</span>)</span><br><span class="line">                    .set(<span class="string">&quot;msg&quot;</span>,  jsonObject.getStr(<span class="string">&quot;msg&quot;</span>));</span><br><span class="line">            <span class="type">JSONObject</span> <span class="variable">data</span> <span class="operator">=</span> jsonObject.getJSONObject(<span class="string">&quot;data&quot;</span>);</span><br><span class="line">            <span class="type">String</span> <span class="variable">userip</span> <span class="operator">=</span> data.getStr(<span class="string">&quot;userip&quot;</span>);</span><br><span class="line">            <span class="type">JSONObject</span> <span class="variable">byodMacRegistInfo</span> <span class="operator">=</span> data.getJSONObject(<span class="string">&quot;byodMacRegistInfo&quot;</span>);</span><br><span class="line">            <span class="type">String</span> <span class="variable">mac</span> <span class="operator">=</span> byodMacRegistInfo.getStr(<span class="string">&quot;mac&quot;</span>);</span><br><span class="line">            <span class="type">String</span> <span class="variable">terminalOs</span> <span class="operator">=</span> byodMacRegistInfo.getStr(<span class="string">&quot;terminalOs&quot;</span>);</span><br><span class="line">            <span class="type">boolean</span> <span class="variable">ifGuest</span> <span class="operator">=</span> byodMacRegistInfo.getBool(<span class="string">&quot;ifGuest&quot;</span>);</span><br><span class="line">            <span class="keyword">return</span> JSONUtil.createObj()</span><br><span class="line">                    .set(<span class="string">&quot;code&quot;</span>, <span class="number">0</span>)</span><br><span class="line">                    .set(<span class="string">&quot;msg&quot;</span>, <span class="string">&quot;成功&quot;</span>)</span><br><span class="line">                    .set(<span class="string">&quot;userip&quot;</span>, userip)</span><br><span class="line">                    .set(<span class="string">&quot;mac&quot;</span>, mac)</span><br><span class="line">                    .set(<span class="string">&quot;terminalOs&quot;</span>, terminalOs)</span><br><span class="line">                    .set(<span class="string">&quot;ifGuest&quot;</span>, !ifGuest);</span><br><span class="line">        &#125; <span class="keyword">catch</span> (Exception e) &#123;</span><br><span class="line">            <span class="keyword">return</span> JSONUtil.createObj()</span><br><span class="line">                    .set(<span class="string">&quot;code&quot;</span>,-<span class="number">1</span>)</span><br><span class="line">                    .set(<span class="string">&quot;msg&quot;</span>, e.getMessage());</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="comment">//ip认证信息</span></span><br><span class="line">    <span class="keyword">private</span> <span class="keyword">static</span> JSONObject <span class="title function_">get_login_errMessage</span><span class="params">(String wispr_userId, String wispr_passwd)</span> &#123;</span><br><span class="line">        <span class="type">String</span> <span class="variable">url</span> <span class="operator">=</span> <span class="string">&quot;http://2.2.2.1:8888/webauth.do?wlanacname=TPdcxy&quot;</span>;</span><br><span class="line">        <span class="type">JSONObject</span> <span class="variable">pageid</span> <span class="operator">=</span> get_login_pageid(url);</span><br><span class="line">        <span class="keyword">if</span> (pageid.getInt(<span class="string">&quot;code&quot;</span>) != <span class="number">0</span>) <span class="keyword">return</span> pageid;</span><br><span class="line">        <span class="keyword">try</span> (<span class="type">HttpResponse</span> <span class="variable">result</span> <span class="operator">=</span> HttpRequest.post(url)</span><br><span class="line">                .header(<span class="string">&quot;Content-Type&quot;</span>, <span class="string">&quot;application/x-www-form-urlencoded&quot;</span>)</span><br><span class="line">                .header(<span class="string">&quot;Accept&quot;</span>, <span class="string">&quot;*/*&quot;</span>)</span><br><span class="line">                .header(<span class="string">&quot;Host&quot;</span>, <span class="string">&quot;2.2.2.1:8888&quot;</span>)</span><br><span class="line">                .header(<span class="string">&quot;Referer&quot;</span>, url)</span><br><span class="line">                .header(<span class="string">&quot;Cookie&quot;</span>, pageid.getStr(<span class="string">&quot;cookies&quot;</span>))</span><br><span class="line">                .form(<span class="string">&quot;pageid&quot;</span>, pageid.getStr(<span class="string">&quot;pageid&quot;</span>))</span><br><span class="line">                .form(<span class="string">&quot;userId&quot;</span>, wispr_userId)</span><br><span class="line">                .form(<span class="string">&quot;passwd&quot;</span>, wispr_passwd)</span><br><span class="line">                .timeout(<span class="number">20000</span>)</span><br><span class="line">                .execute()) &#123;</span><br><span class="line">            <span class="keyword">if</span> (!result.isOk()) <span class="keyword">return</span> JSONUtil.createObj()</span><br><span class="line">                    .set(<span class="string">&quot;code&quot;</span>,-<span class="number">1</span>)</span><br><span class="line">                    .set(<span class="string">&quot;msg&quot;</span>, String.valueOf(result.getStatus()));</span><br><span class="line">            <span class="keyword">if</span> (!ReUtil.findAll(<span class="string">&quot;&lt;title&gt;(.*?)&lt;/title&gt;&quot;</span>, result.body(), <span class="number">1</span>).get(<span class="number">0</span>).equals(<span class="string">&quot;网络认证&quot;</span>)) <span class="keyword">return</span> JSONUtil.createObj()</span><br><span class="line">                    .set(<span class="string">&quot;code&quot;</span>,-<span class="number">1</span>)</span><br><span class="line">                    .set(<span class="string">&quot;msg&quot;</span>, <span class="string">&quot;认证页面访问失败&quot;</span>);</span><br><span class="line">            <span class="type">String</span> <span class="variable">message</span> <span class="operator">=</span> ReUtil.findAll(<span class="string">&quot;&lt;input id=\&quot;errMessage\&quot; type=\&quot;hidden\&quot; value=\&quot;(.*?)\&quot;/&gt;&quot;</span>, result.body(), <span class="number">1</span>).get(<span class="number">0</span>);</span><br><span class="line">            <span class="keyword">if</span> (message.isEmpty()) <span class="keyword">return</span> JSONUtil.createObj()</span><br><span class="line">                    .set(<span class="string">&quot;code&quot;</span>,-<span class="number">1</span>)</span><br><span class="line">                    .set(<span class="string">&quot;msg&quot;</span>, <span class="string">&quot;认证信息获取失败&quot;</span>);</span><br><span class="line">            <span class="keyword">return</span> JSONUtil.createObj()</span><br><span class="line">                    .set(<span class="string">&quot;code&quot;</span>, <span class="number">0</span>)</span><br><span class="line">                    .set(<span class="string">&quot;msg&quot;</span>, message);</span><br><span class="line">        &#125; <span class="keyword">catch</span> (Exception e) &#123;</span><br><span class="line">            <span class="keyword">return</span> JSONUtil.createObj()</span><br><span class="line">                    .set(<span class="string">&quot;code&quot;</span>,-<span class="number">1</span>)</span><br><span class="line">                    .set(<span class="string">&quot;msg&quot;</span>, e.getMessage());</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">private</span> <span class="keyword">static</span> JSONObject <span class="title function_">get_login_pageid</span><span class="params">(String url)</span> &#123;</span><br><span class="line">        <span class="keyword">try</span> (<span class="type">HttpResponse</span> <span class="variable">result</span> <span class="operator">=</span> HttpRequest.get(url)</span><br><span class="line">                .header(<span class="string">&quot;Content-Type&quot;</span>, <span class="string">&quot;application/x-www-form-urlencoded&quot;</span>)</span><br><span class="line">                .header(<span class="string">&quot;Accept&quot;</span>, <span class="string">&quot;*/*&quot;</span>)</span><br><span class="line">                .header(<span class="string">&quot;Host&quot;</span>, <span class="string">&quot;2.2.2.1:8888&quot;</span>)</span><br><span class="line">                .header(<span class="string">&quot;Referer&quot;</span>, url)</span><br><span class="line">                .timeout(<span class="number">20000</span>)</span><br><span class="line">                .execute()) &#123;</span><br><span class="line">            <span class="keyword">if</span> (!result.isOk()) <span class="keyword">return</span> JSONUtil.createObj()</span><br><span class="line">                    .set(<span class="string">&quot;code&quot;</span>,-<span class="number">1</span>)</span><br><span class="line">                    .set(<span class="string">&quot;msg&quot;</span>, String.valueOf(result.getStatus()));</span><br><span class="line">            <span class="keyword">if</span> (!ReUtil.findAll(<span class="string">&quot;&lt;title&gt;(.*?)&lt;/title&gt;&quot;</span>, result.body(), <span class="number">1</span>).get(<span class="number">0</span>).equals(<span class="string">&quot;网络认证&quot;</span>)) <span class="keyword">return</span> JSONUtil.createObj()</span><br><span class="line">                    .set(<span class="string">&quot;code&quot;</span>,-<span class="number">1</span>)</span><br><span class="line">                    .set(<span class="string">&quot;msg&quot;</span>, <span class="string">&quot;认证页面访问失败&quot;</span>);</span><br><span class="line">            <span class="type">String</span> <span class="variable">pageid</span> <span class="operator">=</span> ReUtil.findAll(<span class="string">&quot;&lt;input id=\&quot;pageid\&quot; type=\&quot;hidden\&quot; name=\&quot;pageid\&quot; value=\&quot;(.*?)\&quot; /&gt;&quot;</span>, result.body(), <span class="number">1</span>).get(<span class="number">0</span>);</span><br><span class="line">            <span class="type">String</span> <span class="variable">cookies</span> <span class="operator">=</span> ReUtil.findAll(<span class="string">&quot;JSESSIONID-BOSS-(.*?);&quot;</span>, result.getCookieStr(), <span class="number">1</span>).get(<span class="number">0</span>);</span><br><span class="line">            <span class="keyword">if</span> (pageid.isEmpty() || cookies.isEmpty()) <span class="keyword">return</span> JSONUtil.createObj()</span><br><span class="line">                    .set(<span class="string">&quot;code&quot;</span>,-<span class="number">1</span>)</span><br><span class="line">                    .set(<span class="string">&quot;msg&quot;</span>, <span class="string">&quot;pageid获取失败&quot;</span>);</span><br><span class="line">            <span class="keyword">return</span> JSONUtil.createObj()</span><br><span class="line">                    .set(<span class="string">&quot;code&quot;</span>, <span class="number">0</span>)</span><br><span class="line">                    .set(<span class="string">&quot;msg&quot;</span>, <span class="string">&quot;成功&quot;</span>)</span><br><span class="line">                    .set(<span class="string">&quot;pageid&quot;</span>, pageid)</span><br><span class="line">                    .set(<span class="string">&quot;cookies&quot;</span>, <span class="string">&quot;JSESSIONID-BOSS-&quot;</span> + cookies);</span><br><span class="line">        &#125; <span class="keyword">catch</span> (Exception e) &#123;</span><br><span class="line">            <span class="keyword">return</span> JSONUtil.createObj()</span><br><span class="line">                    .set(<span class="string">&quot;code&quot;</span>,-<span class="number">1</span>)</span><br><span class="line">                    .set(<span class="string">&quot;msg&quot;</span>, e.getMessage());</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></div>
+
+<h2 id="四、添加开机自启动"><a   href="#四、添加开机自启动"  class="headerlink" title="四、添加开机自启动"></a>四、添加开机自启动</h2><p>制作成exe可执行文件,设置开机自启动皆可<br>成品exe在下一帖子发布 <a   href="https://www.iyutong.cn/posts/7c7ddbb7/" >https://www.iyutong.cn/posts/7c7ddbb7/</a></p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+        <tag>校园网</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>自动登录校园网EXE成品软件</title>
+    <url>/posts/7c7ddbb7/</url>
+    <content><![CDATA[<h2 id="一、软件介绍"><a   href="#一、软件介绍"  class="headerlink" title="一、软件介绍"></a>一、软件介绍</h2><p>一个只能在我们 自己学校 (聊城大学东昌学院) 使用的自动化校园网认证程序,实现开机自启动与自动认证功能,解脱每次开机都需要手动认证的烦恼</p>
+<h2 id="二、软件功能"><a   href="#二、软件功能"  class="headerlink" title="二、软件功能"></a>二、软件功能</h2><p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/xyw/img_5.webp"
+                      alt="梔锿-校园网自动认证系统"
+                ><figcaption>梔锿-校园网自动认证系统</figcaption></figure></p>
+<h3 id="1-使用方法"><a   href="#1-使用方法"  class="headerlink" title="1.使用方法"></a>1.使用方法</h3><p>下载ZIP压缩包,解压压缩包里面的所有文件到一个固定的文件夹,双击 <code>梔锿-校园网自动认证系统.exe</code> 运行软件,输入学号和认证密码,单击 <code>保存</code>,打开开机自启动与自动认证就可以愉快的使用软件了</p>
+<h3 id="2-重要说明"><a   href="#2-重要说明"  class="headerlink" title="2.重要说明"></a>2.重要说明</h3><p>请不要修改软件名字,软件名字必须叫 <code>梔锿-校园网自动认证系统.exe</code> 否则无法正常创建开机自启动</p>
+<p>使用有线网络时使用体验最佳</p>
+<p>设备认证密码 就是以下这个页面上的登录密码<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/xyw/img_6.webp"
+                      alt="梔锿-校园网自动认证系统"
+                ><figcaption>梔锿-校园网自动认证系统</figcaption></figure><br>IP认证密码 就是以下页面上的登录密码<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/xyw/img_7.webp"
+                      alt="梔锿-校园网自动认证系统"
+                ><figcaption>梔锿-校园网自动认证系统</figcaption></figure></p>
+<h2 id="三、软件下载"><a   href="#三、软件下载"  class="headerlink" title="三、软件下载"></a>三、软件下载</h2><p>123云盘下载:<a   href="/go/?url=aHR0cHM6Ly93d3cuMTIzcGFuLmNvbS9zL002aXpWdi1rV0hmaA==" >https://www.123pan.com/s/M6izVv-kWHfh</a> </p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+        <tag>校园网</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>达芬奇专业版安装与激活</title>
+    <url>/posts/7b9ea450/</url>
+    <content><![CDATA[<h2 id="一、介绍"><a   href="#一、介绍"  class="headerlink" title="一、介绍"></a>一、介绍</h2><p>DaVinci Resolve Studio是一款功能强大的视频剪辑和调色软件，支持高分辨率、HDR、立体3D、神经网络引擎等多项高端技术。<br>达芬奇官方网站: <a   href="/go/?url=aHR0cDovL3d3dy5ibGFja21hZ2ljZGVzaWduLmNvbS9jbi9wcm9kdWN0cy9kYXZpbmNpcmVzb2x2ZS9zdHVkaW8=" >http://www.blackmagicdesign.com/cn/products/davinciresolve/studio</a><br>本文章带你安装 <code>DaVinci Resolve Studio 19.2</code> 并破解激活.</p>
+<h2 id="二、文件准备与下载"><a   href="#二、文件准备与下载"  class="headerlink" title="二、文件准备与下载"></a>二、文件准备与下载</h2><p>总共需要准备两个软件分别是 <code>DaVinci Resolve Studio</code> 与 <code>达芬奇激活工具</code> . </p>
+<h3 id="1-DaVinci-Resolve-Studio"><a   href="#1-DaVinci-Resolve-Studio"  class="headerlink" title="1.DaVinci Resolve Studio"></a>1.DaVinci Resolve Studio</h3><p>达芬奇安装包<br>123网盘:<a   href="/go/?url=aHR0cHM6Ly93d3cuMTIzODY1LmNvbS9zL002aXpWdi1KNUhmaA==" >https://www.123865.com/s/M6izVv-J5Hfh</a> 提取码:<code>1314</code></p>
+<h3 id="2-达芬奇激活工具"><a   href="#2-达芬奇激活工具"  class="headerlink" title="2.达芬奇激活工具"></a>2.达芬奇激活工具</h3><p>达芬奇破解补丁  </p>
+<a class="button  regular" href='/download/?id=aHR0cHM6Ly9peXV0b25nMTMxNC5sYW56b3ViLmNvbS9pZVYwUzJvbHpkN2k=' title='本地下载'><i class='fa-solid fa-download'></i> 本地下载</a>
+<a class="button  regular" href='/go/?url=aHR0cHM6Ly93d3cuMTIzODY1LmNvbS9zL002aXpWdi1JNUhmaA==' title='123网盘下载'><i class='fa-solid fa-download'></i> 123网盘下载</a>
+<p>123网盘提取码:<code>1314</code>   </p>
+<h2 id="三、达芬奇本体安装"><a   href="#三、达芬奇本体安装"  class="headerlink" title="三、达芬奇本体安装"></a>三、达芬奇本体安装</h2><p>解压<a   href="#1-DaVinci-Resolve-Studio" >步骤二</a>中下载的压缩包,若无法解压请更换解压软件.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt26.webp"
+                      alt="DaVinci Resolve Studio"
+                ><figcaption>DaVinci Resolve Studio</figcaption></figure><br>双击 <code>Install Resolve 19.0.2.exe</code> 运行程序,等等解压完成.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt27.webp"
+                      alt="运行"
+                ><figcaption>运行</figcaption></figure><br>解压完成以后弹出<code>安装组件</code>对话框,选择你想安装的组件,如果不懂请全部选择.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt25.webp"
+                      alt="安装组件"
+                ><figcaption>安装组件</figcaption></figure><br>选择完成以后,单击 <code>Install</code> 等等组件安装完成.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt15.webp"
+                      alt="安装"
+                ><figcaption>安装</figcaption></figure><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt24.webp"
+                      alt="安装"
+                ><figcaption>安装</figcaption></figure><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt23.webp"
+                      alt="安装"
+                ><figcaption>安装</figcaption></figure><br>等等弹出 <code>DaVinci Resolve Studio</code> 安装对话框.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt21.webp"
+                      alt="安装"
+                ><figcaption>安装</figcaption></figure><br>单击 <code>Next</code>, 进行下一步.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt20.webp"
+                      alt="安装"
+                ><figcaption>安装</figcaption></figure><br>勾选 <code>I accept the terms ....</code> ,单击 <code>Next</code>, 进行下一步<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt19.webp"
+                      alt="安装"
+                ><figcaption>安装</figcaption></figure><br>单击 <code>Next</code>, 进行下一步   </p>
+
+  <div class="note p-4 mb-4 rounded-small warning">
+    <p>如果现在修改安装目录请先单击 <code>Change...</code>, 选择安装位置 </p>
+
+  </div>
+
+<p><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt18.webp"
+                      alt="安装"
+                ><figcaption>安装</figcaption></figure><br>单击 <code>Install</code> 开始安装,等等安装完成.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt17.webp"
+                      alt="安装"
+                ><figcaption>安装</figcaption></figure><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt16.webp"
+                      alt="安装"
+                ><figcaption>安装</figcaption></figure><br>单击 <code>Finish</code> 关闭安装程序,并等等其他组件安装完成.<br>安装完成后,可能会弹出,重启弹窗,单击 <code>是</code> 等等重启即可<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt14.webp"
+                      alt="安装"
+                ><figcaption>安装</figcaption></figure></p>
+<h2 id="四、达芬奇破解"><a   href="#四、达芬奇破解"  class="headerlink" title="四、达芬奇破解"></a>四、达芬奇破解</h2><p>解压<a   href="#2-%E8%BE%BE%E8%8A%AC%E5%A5%87%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7" >步骤二</a>中下载的压缩包,若无法解压请更换解压软件.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt13.webp"
+                      alt="破解"
+                ><figcaption>破解</figcaption></figure><br>双击 <code>达芬奇激活工具.exe</code> 运行程序.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt12.webp"
+                      alt="破解"
+                ><figcaption>破解</figcaption></figure><br>单击 <code>Patch</code> 等等破解完成.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt11.webp"
+                      alt="破解"
+                ><figcaption>破解</figcaption></figure><br>如果你自定义了安装路径,将会弹出,文件选择对话框,按照提示现在对应文件即可.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt33.webp"
+                      alt="破解"
+                ><figcaption>破解</figcaption></figure><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt32.webp"
+                      alt="破解"
+                ><figcaption>破解</figcaption></figure><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt31.webp"
+                      alt="破解"
+                ><figcaption>破解</figcaption></figure><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt29.webp"
+                      alt="破解"
+                ><figcaption>破解</figcaption></figure><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt28.webp"
+                      alt="破解"
+                ><figcaption>破解</figcaption></figure><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt30.webp"
+                      alt="破解"
+                ><figcaption>破解</figcaption></figure></p>
+<h2 id="五、补充"><a   href="#五、补充"  class="headerlink" title="五、补充"></a>五、补充</h2><p>如果你是第一次运行,可能会弹出运行向导,按照提示选择适合自己电脑和自己习惯的就好.<br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt10.webp"
+                      alt="运行"
+                ><figcaption>运行</figcaption></figure><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt9.webp"
+                      alt="运行"
+                ><figcaption>运行</figcaption></figure><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt8.webp"
+                      alt="运行"
+                ><figcaption>运行</figcaption></figure><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt7.webp"
+                      alt="运行"
+                ><figcaption>运行</figcaption></figure><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt6.webp"
+                      alt="运行"
+                ><figcaption>运行</figcaption></figure><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt5.webp"
+                      alt="运行"
+                ><figcaption>运行</figcaption></figure><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt4.webp"
+                      alt="运行"
+                ><figcaption>运行</figcaption></figure><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt3.webp"
+                      alt="运行"
+                ><figcaption>运行</figcaption></figure><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt2.webp"
+                      alt="运行"
+                ><figcaption>运行</figcaption></figure><br><figure class="image-caption"><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/dfq/yt1.webp"
+                      alt="运行"
+                ><figcaption>运行</figcaption></figure></p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+        <tag>破解</tag>
+        <tag>激活</tag>
+        <tag>达芬奇</tag>
+        <tag>Resolve</tag>
+      </tags>
+  </entry>
+</search>
